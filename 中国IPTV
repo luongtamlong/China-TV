@@ -1,0 +1,625 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://nettvpro.live/uploads/18/1-1P3221K936337.jpg" group-title="央视频道",CCTV1-综合高清
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://nettvpro.live/uploads/18/1-1P3221K402528.jpg" group-title="央视频道",CCTV2-财经高清
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://nettvpro.live/uploads/161229/1-1612292119203A.jpg" group-title="央视频道",CCTV3-娱乐高清
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://nettvpro.live/uploads/18/1-1P525203500491.jpg" group-title="央视频道",CCTV4-中文国际高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://nettvpro.live/uploads/18/1-1PZ21S93X48.jpg" group-title="央视频道",CCTV5-体育高清
+http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://nettvpro.live/uploads/170103/1-1F1031Q640N5.jpg" group-title="央视频道",CCTV5-体育赛事高清
+http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://nettvpro.live/uploads/18/1-1P5051S2514L.jpg" group-title="央视频道",CCTV6-电影高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://nettvpro.live/uploads/18/1-1P5051U200938.jpg" group-title="央视频道",CCTV7-国防军事高清
+http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://nettvpro.live/uploads/18/1-1P50519140W57.jpg" group-title="央视频道",CCTV8-电视剧高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://nettvpro.live/uploads/18/1-1P505191A5108.jpg" group-title="央视频道",CCTV9-记录高清
+http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://nettvpro.live/uploads/18/1-1P505193303U5.jpg" group-title="央视频道",CCTV10-科教高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://nettvpro.live/uploads/18/1-1P505193520354.jpg" group-title="央视频道",CCTV11-戏曲高清
+http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://nettvpro.live/uploads/18/1-1P50519503G14.jpg" group-title="央视频道",CCTV12-社会高清
+http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://nettvpro.live/uploads/18/1-1P503221404532.jpg" group-title="央视频道",CCTV13-新闻高清
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
+#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://nettvpro.live/uploads/18/1-1P505205406394.jpg" group-title="央视频道",CCTV14-少儿高清
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://nettvpro.live/uploads/18/1-1P505205920194.jpg" group-title="央视频道",CCTV15-音乐高清
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225830/index.m3u8
+#http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1ZP32340320-L.jpg" group-title="央视频道",CCTV17-农业农村高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1Q00GZ6250-L.jpg" group-title="4K频道",CCTV4K-超高清 (代理）
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://nettvpro.live/uploads/18/1-1P5091K21J64.jpg" group-title="央视频道",CGTN高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://nettvpro.live/uploads/18/1-1P5091P409564.jpg" group-title="央视频道",CGTN-记录高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P5101F02Q92.jpg" group-title="央视频道",CGTN-法语高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P5101F610514.jpg" group-title="央视频道",CGTN-俄语高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226278/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P5101A626326.jpg" group-title="央视频道",CGTN-西班牙语高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P5101F320123.jpg" group-title="央视频道",CGTN-阿拉伯语高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/19/1-19103016035W49.jpg" group-title="央视频道",CCTV4-中文国际欧洲
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/19/1-191030155JY51.jpg" group-title="央视频道",CCTV4-中文国际美洲
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141J545P8.jpg" group-title="央视付费",电视指南高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G423240.jpg" group-title="央视付费",风云足球高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G505606.jpg" group-title="央视付费",风云音乐高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141J315L0.jpg" group-title="央视付费",第一剧场高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G544918.jpg" group-title="央视付费",风云剧场高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G315Y5.jpg" group-title="央视付费",世界地理高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141J20T52.jpg" group-title="央视付费",怀旧剧场高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141J452591.jpg" group-title="央视付费",兵器科技高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141I942294.jpg" group-title="央视付费",女性时尚高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G93E06.jpg" group-title="央视付费",高尔夫网球高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+#http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141H1325H.jpg" group-title="央视付费",央视精品高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141H502610.jpg" group-title="央视付费",央视台球高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="https://nettvpro.live/uploads/20/1-200Q2205Q3405.jpg" group-title="央视付费",发现之旅
+http://39.134.19.61/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+#EXTINF:-1 tvg-id="6592" tvg-name="新科动漫" tvg-logo="https://nettvpro.live/uploads/20/1-200H412263KK.jpg" group-title="央视付费",新科动漫
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="https://nettvpro.live/uploads/20/1-200H51R442500.jpg" group-title="央视付费",老故事
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/20/1-200Q2211040237.jpg" group-title="央视付费",中学生
+http://39.135.138.60:18890/PLTV/88888888/224/3221225515/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q10G2561QQ.jpg" group-title="央视付费",中国天气
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/zgqx/1300000/mnf.m3u8
+
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z209140042H4.jpg" group-title="卫视频道",湖南卫视高清
+http://39.134.134.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P40ZJ6059E.jpg" group-title="卫视频道",浙江卫视高清
+http://39.134.134.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226504/1.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z130164915261.jpg" group-title="卫视频道",江苏卫视高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226506/1.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P503203952229.jpg" group-title="卫视频道",BRTV北京卫视高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P121225J50-L.jpg" group-title="卫视频道",东方卫视高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226505/1.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z32R3441K51.jpg" group-title="卫视频道",安徽卫视高清
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226499/1.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191I004553.jpg" group-title="卫视频道",广东卫视高清
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1PH9202022M3.jpg" group-title="卫视频道",深圳卫视高清
+http://39.134.134.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1PZH02040491.jpg" group-title="卫视频道",辽宁卫视高清
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z50119294HN.jpg" group-title="卫视频道",海南卫视高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z2031324415Q.jpg" group-title="卫视频道",山东卫视高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://nettvpro.live/uploads/170101/1-1F1011UP0242.jpg" group-title="卫视频道",天津卫视高清
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226502/1.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z411121I3C3.jpg" group-title="卫视频道",重庆卫视高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P331133414641.jpg" group-title="卫视频道",东南卫视高清
+http://39.134.134.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z430000933P8.jpg" group-title="卫视频道",甘肃卫视高清
+http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P52Z050022B.jpg" group-title="卫视频道",广西卫视高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://nettvpro.live/uploads/21/1-210221133339646.jpg" group-title="卫视频道",贵州卫视高清
+http://39.134.134.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z41520244N44.jpg" group-title="卫视频道",河北卫视高清
+http://39.134.134.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z322140P4623.jpg" group-title="卫视频道",黑龙江卫视高清
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226498/1.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P503204KGW.jpg" group-title="卫视频道",河南卫视高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://nettvpro.live/uploads/170102/1-1F102195131O6.jpg" group-title="卫视频道",湖北卫视高清
+http://39.134.134.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P930232F1108.jpg" group-title="卫视频道",江西卫视高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z21216160SO.jpg" group-title="卫视频道",吉林卫视高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z212160P5C7.jpg" group-title="卫视频道",内蒙古卫视高清
+http://live.m2oplus.nmtv.cn/1/playlist.m3u8
+#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226415/1.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z2201GR1F5.jpg" group-title="卫视频道",宁夏卫视高清
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+#http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226413/1.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z41G40J2110.jpg" group-title="卫视频道",山西卫视高清
+https://www.navchina.cf/IPTV/shanxiyun.php?id=sxws
+#http://39.134.134.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226410/1.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://nettvpro.live/uploads/170103/1-1F103130AAU.jpg" group-title="卫视频道",陕西卫视
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226411/1.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P604125201C0.jpg" group-title="卫视频道",四川卫视高清
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1PHG60450U0.jpg" group-title="卫视频道",新疆卫视高清
+http://111.0.27.21/livehyw5.chinamcache.com/hyw/zb01.m3u8
+#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226422/1.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://nettvpro.live/uploads/170101/1-1F1011J050605.jpg" group-title="卫视频道",云南卫视高清
+http://39.130.202.81:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+#http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226424/1.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1Q11G94924201.jpg" group-title="卫视频道",青海卫视高清
+http://live.geermurmt.com/qhws/sd/live.m3u8
+#http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226412/1.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P521150339B7.jpg" group-title="卫视频道",南方卫视
+http://111.161.121.238/nclive.grtn.cn/tvs2/sd/live.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1PHG51212955.jpg" group-title="卫视频道",兵团卫视
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226541/1.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P319114F2353.jpg" group-title="卫视频道",延边卫视高清
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P426213405c4.jpg" group-title="卫视频道",厦门卫视
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225761/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://nettvpro.live/uploads/18/1-1P604203405305.jpg" group-title="卫视频道",金鹰卡通高清
+http://124.232.231.246:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P604124640R5.jpg" group-title="卫视频道",康巴卫视高清
+http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1PHG21032944.jpg" group-title="卫视频道",西藏卫视
+http://39.134.134.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226428/1.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1PS1213339246.jpg" group-title="卫视频道",三沙卫视
+http://stream3.hnntv.cn/ssws/sd/live.m3u8
+#http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P331133954G1.jpg" group-title="卫视频道",海峡卫视高清
+rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+
+
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/20/1-20111614254W53.jpg" group-title="4K频道",爱上4k
+http://39.134.19.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-200614200Q30-L.jpg" group-title="4K频道",纯享4K
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2010041603070-L.jpg" group-title="4K频道",北京IPTV4K超清
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-201004160A80-L.jpg" group-title="北京频道",北京IPTV淘BABY高清
+http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2010041613120-L.jpg" group-title="北京频道",北京IPTV淘剧场高清
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2010041616070-L.jpg" group-title="北京频道",北京IPTV淘娱乐高清
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-201004161U80-L.jpg" group-title="北京频道",北京IPTV淘电影高清
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2010041622070-L.jpg" group-title="北京频道",北京IPTV萌宠TV高清
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-201004162J50-L.jpg" group-title="北京频道",北京大健康高清
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://nettvpro.live/uploads/18/1-1Q102224930P8.jpg" group-title="北京频道",BRTV卡酷动画高清
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://nettvpro.live/uploads/19/1-1Z51122051RT.jpg" group-title="北京频道",BRTV北京纪实高清
+http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q24129621.jpg" group-title="北京频道",BRTV文艺高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q2433X35.jpg" group-title="北京频道",BRTV科教高清
+http://39.134.134.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q24611640.jpg" group-title="北京频道",BRTV影视高清
+http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q25030444.jpg" group-title="北京频道",BRTV财经高清
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q255149A.jpg" group-title="北京频道",BRTV生活高清
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q24913U8.jpg" group-title="北京频道",BRTV青年高清
+http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q25Hb10.jpg" group-title="北京频道",BRTV新闻高清
+http://39.134.134.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P12123064R18.jpg" group-title="北京频道",BRTV国际
+http://39.134.134.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P501135151462.jpg" group-title="上海频道",动漫秀场高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P5151UG1537.jpg" group-title="上海频道",都市剧场高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P515191235Z0.jpg" group-title="上海频道",法治天地高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P5132041150-L.jpg" group-title="上海频道",金色频道高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P311201051922.jpg" group-title="上海频道",东方财经高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1Z1041945150-L.jpg" group-title="上海频道",哈哈炫动高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="https://nettvpro.live/uploads/18/1-1P523134052142.jpg" group-title="上海频道",七彩戏剧高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://nettvpro.live/uploads/18/1-1P41G52353Y5.jpg" group-title="上海频道",新视觉高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://nettvpro.live/uploads/18/1-1P515222U45E.jpg" group-title="上海频道",劲爆体育高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P5131Z9270-L.gif" group-title="上海频道",MAX极速汽车高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P512164S50-L.jpg" group-title="上海频道",全纪实高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://nettvpro.live/uploads/18/1-1PHH21000F2.jpg" group-title="4K频道",欢笑剧场4K
+http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="https://nettvpro.live/uploads/18/1-1P513203445963.jpg" group-title="上海频道",幸福彩高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1PHH216040-L.jpg" group-title="上海频道",生活时尚高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://nettvpro.live/uploads/18/1-1P51522224K51.jpg" group-title="上海频道",游戏风云高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://nettvpro.live/uploads/18/1-1P5121HAU33.jpg" group-title="上海频道",上视新闻频道高清
+http://111.26.225.22/PLTV/2/224/3221225487/index.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://nettvpro.live/uploads/18/1-1P311202F2446.jpg" group-title="上海频道",第一财经高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://nettvpro.live/uploads/18/1-1P5121GG5293.jpg" group-title="上海频道",东方影视高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://nettvpro.live/uploads/18/1-1P5121J6453Z.jpg" group-title="上海频道",五星体育频道高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://nettvpro.live/uploads/18/1-1P5121G151945.jpg" group-title="上海频道",上海纪实高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1989" tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1Z1301451090-L.jpg" group-title="上海频道",上海都市频道高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1991" tvg-logo="https://nettvpro.live/uploads/18/1-1P5121I40S45.jpg" group-title="上海频道",上视外语频道高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://www.cctbn.com/images/cctbn_bj.png" group-title="上海频道",中国交通频道高清
+http://tv.lanjingfm.com/cctbn/beijing.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="https://nettvpro.live/uploads/20/1-200406111014F4.jpg" group-title="上海频道",魅力足球高清
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://nettvpro.live/uploads/18/1-1Q105221T1118.jpg" group-title="湖南频道",金鹰纪实高清
+http://39.134.134.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226572/1.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://nettvpro.live/uploads/18/1-1P21620233a09.jpg" group-title="湖南频道",茶频道高清
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://nettvpro.live/uploads/18/1-1P60420161Q14.jpg" group-title="湖南频道",快乐垂钓高清
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="https://nettvpro.live/uploads/18/1-1P6042025244W.jpg" group-title="湖南频道",先锋乒羽
+http://124.232.231.246:6610/000000001001/201500000115/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P51220053V91.jpg" group-title="湖南频道",国际频道高清
+http://124.232.231.246:6610/000000001001/201500000153/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#https://nettvpro.live/hls/mgtv.php?id=229
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q10522235G27.jpg" group-title="湖南频道",湖南经视高清
+http://124.232.231.246:6610/000000001001/201500000068/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#https://nettvpro.live/hls/mgtv.php?id=280
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P512193G3402.jpg" group-title="湖南频道",湖南都市高清
+http://124.232.231.246:6610/000000001001/201500000151/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#https://nettvpro.live/hls/mgtv.php?id=346
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P604203HI18.jpg" group-title="湖南频道",湖南娱乐高清
+http://124.232.231.246:6610/000000001001/201500000152/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#https://nettvpro.live/hls/mgtv.php?id=344
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P512200211120.jpg" group-title="湖南频道",湖南公共高清
+http://124.232.231.246:6610/000000001001/201500000222/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#https://nettvpro.live/hls/mgtv.php?id=261
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q1061JJ0437.jpg" group-title="湖南频道",电视剧高清
+http://124.232.231.246:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#https://nettvpro.live/hls/mgtv.php?id=484
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P5062149133Z.jpg" group-title="湖南频道",电影高清
+http://124.232.231.246:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+#EXTINF:-1 tvg-id="1044" tvg-name="靓妆频道" tvg-logo="https://nettvpro.live/uploads/19/1-1Z130163Hcc.jpg" group-title="江苏频道",靓妆频道
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="https://nettvpro.live/uploads/19/1-1Z1301645054E.jpg" group-title="江苏频道",优漫卡通
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226420/1.m3u8
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="https://nettvpro.live/uploads/19/1-1Z1301F921231.jpg" group-title="江苏频道",财富天下
+http://39.134.19.135/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
+
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://nettvpro.live/uploads/18/1-1P503212J3427.jpg" group-title="广东频道",嘉佳卡通
+http://111.161.121.238/nclive.grtn.cn/jjkt/sd/live.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191F915431.jpg" group-title="广东频道",珠江频道
+http://111.161.121.238/nclive.grtn.cn/zjpd/sd/live.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1183
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191FHG36.jpg" group-title="广东频道",广东新闻
+http://111.161.121.238/nclive.grtn.cn/xwpd/sd/live.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1186
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191F604931.jpg" group-title="广东频道",广东公共
+http://111.161.121.238/nclive.grtn.cn/ggpd/sd/live.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1185
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P524192536443.jpg" group-title="广东频道",经济科教
+http://111.161.121.238/nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1196
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191I215631.jpg" group-title="广东频道",广东影视
+http://111.161.121.238/nclive.grtn.cn/tvs4/sd/live.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1199
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191F354Q9.jpg" group-title="广东频道",广东体育
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1184
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191I60A11.jpg" group-title="广东频道",广东综艺
+http://111.161.121.238/nclive.grtn.cn/4K/sd/live.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1198
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191H52V22.jpg" group-title="广东频道",广东国际
+http://111.161.121.238/nclive.grtn.cn/gjpd/sd/live.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1191
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P521161AA25.jpg" group-title="广东频道",广东少儿
+http://111.161.121.238/nclive.grtn.cn/tvs5/sd/live.m3u8
+#https://nettvpro.live/hls/itouch.php?id=1200
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191K53BH.jpg" group-title="广东频道",南方购物
+http://szlive.grtn.cn/nfgw/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191H1261E.jpg" group-title="广东频道",岭南戏曲
+http://szlive.grtn.cn/lnxq/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P521163Q0324.jpg" group-title="广东频道",广东房产
+http://szlive.grtn.cn/fcpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191G954b5.jpg" group-title="广东频道",现代教育
+http://szlive.grtn.cn/jypd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191GS54a.jpg" group-title="广东频道",广东移动
+http://szlive.grtn.cn/ydpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-200H11155170-L.jpg" group-title="广东频道",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P530221032426.jpg" group-title="广东频道",揭阳综合
+http://dslive.grtn.cn/jyzh/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1ZQ61135200-L.jpg" group-title="广东频道",普宁台
+https://nettvpro.live/hls/itouch.php?id=2450
+
+
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="数字付费",中国教育1台高清
+http://39.134.134.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="https://nettvpro.live/uploads/allimg/18/1_0312125J3ZP.jpg" group-title="数字付费",中国教育2台
+http://39.134.19.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="https://nettvpro.live/uploads/allimg/18/1_0312130151WB.jpg" group-title="数字付费",中国教育3台
+http://39.134.19.60/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="https://nettvpro.live/uploads/allimg/18/1_031213034WR0.jpg" group-title="数字付费",中国教育4台
+http://39.134.19.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="https://nettvpro.live/uploads/19/1-1Z122121620143.jpg" group-title="数字付费",早期教育高清
+http://60.255.49.202/live/zqjy_4000.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="数字付费",CHC高清电影高清
+http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://nettvpro.live/uploads/19/1-1Z406134234147.jpg" group-title="数字付费",CHC动作电影高清
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://nettvpro.live/uploads/19/1-1Z40613520I39.jpg" group-title="数字付费",CHC家庭电影高清
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="https://nettvpro.live/uploads/18/1-1P511214534106.jpg" group-title="数字付费",IPTV3+
+http://39.134.19.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="https://nettvpro.live/uploads/18/1-1P511214345J8.jpg" group-title="数字付费",IPTV5+高清
+http://39.134.18.132/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P5112146362G.jpg" group-title="数字付费",IPTV6+
+http://39.134.39.39/PLTV/88888888/224/3221226269/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P511220344S5.jpg" group-title="数字付费",IPTV8+
+http://39.134.39.39/PLTV/88888888/224/3221226271/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P5112159470-L.jpg" group-title="数字付费",IPTV法制
+http://39.134.39.39/PLTV/88888888/224/3221226258/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P5112149410-L.jpg" group-title="数字付费",IPTV热播剧场
+http://39.134.39.39/270000001322/69900158041111100000002198/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P511215A10-L.jpg" group-title="数字付费",IPTV相声小品
+http://39.134.39.39/PLTV/88888888/224/3221226260/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/20/1-20020119460IS.jpg" group-title="数字付费",IPTV谍战剧场
+http://39.134.39.39/PLTV/88888888/224/3221226256/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P511215R30-L.jpg" group-title="数字付费",IPTV野外
+http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="https://nettvpro.live/uploads/18/1-1PG4233042b7.jpg" group-title="数字付费",梨园
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225701/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://nettvpro.live/uploads/19/1-1Z41112295G96.jpg" group-title="数字付费",汽摩
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225736/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://nettvpro.live/uploads/19/1-1Z22H35310H0.jpg" group-title="数字付费",摄影频道
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225683/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://nettvpro.live/uploads/18/1-1P52R2151I46.jpg" group-title="数字付费",天元围棋
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="https://nettvpro.live/uploads/18/1-1PG4221642441.jpg" group-title="数字付费",武术世界
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225691/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://nettvpro.live/uploads/18/1-1P312140629462.jpg" group-title="数字付费",环球奇观
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="https://nettvpro.live/uploads/19/1-1Z512202Q3236.jpg" group-title="数字付费",国学
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225692/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://nettvpro.live/uploads/18/1-1PG4233456230.jpg" group-title="数字付费",文物宝库
+http://39.136.18.75/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="https://nettvpro.live/uploads/18/1-1P5251SJ23I.jpg" group-title="数字付费",书画频道
+http://125.210.152.18:9090/live/SH.m3u8
+#EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="https://nettvpro.live/uploads/18/1-1PS122361V44.jpg" group-title="数字付费",车迷频道
+http://125.210.152.18:9090/live/CM.m3u8
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="https://nettvpro.live/uploads/19/1-191209123510c7.jpg" group-title="数字付费",优优宝贝
+http://124.232.231.246:6610/000000001001/201500000119/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="https://nettvpro.live/uploads/19/1-1Z511203A6230.jpg" group-title="数字付费",四海钓鱼
+http://124.232.231.246:6610/000000001001/201500000054/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="6610" tvg-name="京视剧场" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1PF21603530-L.jpg" group-title="数字付费",京视剧场
+http://39.134.19.50/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-id="6612" tvg-name="栾坛春秋" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1PF21559300-L.jpg" group-title="数字付费",栾坛春秋
+http://39.134.19.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
+#EXTINF:-1 tvg-id="6627" tvg-name="百姓健康" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P50H135090-L.jpg" group-title="数字付费",百姓健康
+http://124.232.231.246:6610/000000001001/201500000090/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="数字付费",求索科学高清
+
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://nettvpro.live/uploads/18/1-1P40ZZ233615.jpg" group-title="数字付费",求索动物高清
+
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="数字付费",求索记录高清
+http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900158.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P40ZZ414450.jpg" group-title="数字付费",求索生活高清
+
+
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251HU90-L.jpg" group-title="iHOT",爱奇谈高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251I0500-L.jpg" group-title="iHOT",爱世界高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251J2230-L.jpg" group-title="iHOT",爱怀旧高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251J1040-L.jpg" group-title="iHOT",爱旅行高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251J3250-L.jpg" group-title="iHOT",爱娱乐高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251H0150-L.jpg" group-title="iHOT",爱江湖高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251H3410-L.jpg" group-title="iHOT",爱军武高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251I3300-L.jpg" group-title="iHOT",爱幼教高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251J5500-L.jpg" group-title="iHOT",爱猎奇高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251HA20-L.jpg" group-title="iHOT",爱历史高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251H2130-L.jpg" group-title="iHOT",爱经典高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251G9340-L.jpg" group-title="iHOT",爱都市高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251H9580-L.jpg" group-title="iHOT",爱时尚高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251HQ10-L.jpg" group-title="iHOT",爱美食高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251JK20-L.jpg" group-title="iHOT",爱家庭高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251GS70-L.jpg" group-title="iHOT",爱动漫高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251J4330-L.jpg" group-title="iHOT",爱谍战高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251I2380-L.jpg" group-title="iHOT",爱悬疑高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251J9210-L.jpg" group-title="iHOT",爱青春高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251I4420-L.jpg" group-title="iHOT",爱院线高清
+#http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251G5050-L.jpg" group-title="iHOT",爱喜剧高清
+#http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251H1090-L.jpg" group-title="iHOT",爱解密高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251J6430-L.jpg" group-title="iHOT",爱探索高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251I1460-L.jpg" group-title="iHOT",爱玩具高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251H4440-L.jpg" group-title="iHOT",爱科幻高清
+#http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251I5330-L.jpg" group-title="iHOT",爱电竞高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251IS50-L.jpg" group-title="iHOT",爱赛车高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251H5480-L.jpg" group-title="iHOT",爱浪漫高清
+#http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2003251I9560-L.jpg" group-title="iHOT",爱体育高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/1.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3rVMLkL" group-title="iHOT",爱科学高清
+http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P423200320U1.jpg" group-title="Newtv",中国功夫高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426221943132.jpg" group-title="Newtv",军事评论高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P4262226352Z.jpg" group-title="Newtv",军旅剧场高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426222232647.jpg" group-title="Newtv",农业致富高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-191215202451457.jpg" group-title="Newtv",动作电影高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P4262246003C.jpg" group-title="Newtv",古装剧场高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426224331251.jpg" group-title="Newtv",家庭剧场高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-200612000H70-L.jpg" group-title="Newtv",怡伴健康高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P42622394O34.jpg" group-title="Newtv",惊悚悬疑高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P42616140Na.jpg" group-title="Newtv",明星大片高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P426225Q10-L.jpg" group-title="Newtv",武搏世界高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426224459244.jpg" group-title="Newtv",海外剧场高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P4262254200-L.jpg" group-title="Newtv",潮妈辣婆高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-191215192034I5.jpg" group-title="Newtv",炫舞未来高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225707/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P4262300110-L.jpg" group-title="Newtv",爱情喜剧高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225748/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P4262241042I.jpg" group-title="Newtv",金牌综艺高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426222R1296.jpg" group-title="Newtv",精品体育高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P426223G10-L.jpg" group-title="Newtv",精品大剧高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426223225b6.jpg" group-title="Newtv",精品纪录高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1912151US24O.jpg" group-title="Newtv",东北热剧高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1912151U603307.jpg" group-title="Newtv",欢乐剧场高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/20/1-200605145035318.jpg" group-title="Newtv",超级体育高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/20/1-20060514521Ca.jpg" group-title="Newtv",超级电影高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P5031T9400-L.jpg" group-title="Newtv",超级电视剧高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2006051445380-L.jpg" group-title="Newtv",超级综艺高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2005231QR40-L.jpg" group-title="Newtv",魅力江西高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221225979/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2006142252150-L.jpg" group-title="Newtv",魅力山东高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-200614223J50-L.jpg" group-title="Newtv",魅力广东高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226185/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2006142232400-L.jpg" group-title="Newtv",魅力四川高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226187/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2006142230400-L.jpg" group-title="Newtv",魅力吉林高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2006291600550-L.jpg" group-title="Newtv",魅力黑龙江高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2006142224520-L.jpg" group-title="Newtv",魅力广西高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226186/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-200614222H00-L.jpg" group-title="Newtv",魅力云南高清
+http://39.135.138.60:18890/PLTV/88888888/224/3221226188/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Newtv",黑莓电影高清
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-191215202209426.jpg" group-title="Newtv",黑莓动画高清
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="Newtv",黑莓电竞高清
+http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/1.m3u8
+
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://nettvpro.live/uploads/18/1-1P322210400B3.jpg" group-title="港澳台",翡翠台
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P3111915460-L.jpg" group-title="港澳台",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://nettvpro.live/uploads/18/1-1P40ZG925S9.jpg" group-title="港澳台",无线新闻台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="https://nettvpro.live/uploads/18/1-1P50923500OB.jpg" group-title="港澳台",TVB星河频道
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://nettvpro.live/uploads/19/1-1ZFQ03HV33.jpg" group-title="港澳台",无线财经
+http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://nettvpro.live/uploads/18/1-1Q123210631396.jpg" group-title="港澳台",凤凰中文
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://nettvpro.live/uploads/18/1-1PH92041345D.jpg" group-title="港澳台",凤凰资讯
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://nettvpro.live/uploads/18/1-1Q12321004YL.jpg" group-title="港澳台",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#http://stream.guihet.com/t/ifeng2.php?id=3
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://nettvpro.live/uploads/18/1-1P50H25930492.jpg" group-title="港澳台",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PR5224R1a1.jpg" group-title="港澳台",ViuTV Six
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://nettvpro.live/uploads/18/1-1P40ZG422936.jpg" group-title="港澳台",J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="https://nettvpro.live/uploads/18/1-1P5121TS0225.jpg" group-title="港澳台",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="https://nettvpro.live/uploads/18/1-1P602110311945.jpg" group-title="港澳台",CHANNEL[V]
+http://hdtv.haust.edu.cn/hls/channelv.m3u8
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://nettvpro.live/uploads/18/1-1Q21521053R62.jpg" group-title="港澳台",香港国际财经台
+https://www.navchina.cf/IPTV/icable.php?id=76
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://nettvpro.live/uploads/18/1-1Q1052133164b.jpg" group-title="港澳台",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-logo="https://nettvpro.live/uploads/allimg/20/1-20011QKF00-L.jpg" group-title="港澳台",有线财经资讯台
+https://www.navchina.cf/IPTV/icable.php?id=38
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="https://nettvpro.live/uploads/18/1-1Q01420544J23.jpg" group-title="港澳台",有线新闻台
+https://www.navchina.cf/IPTV/icable.php?id=37
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2002151054390-L.jpg" group-title="港澳台",有线直播新闻台
+https://www.navchina.cf/IPTV/icable.php?id=39
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P409155110630.jpg" group-title="港澳台",港台电视31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P41QA234925.jpg" group-title="港澳台",港台电视32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P41QA5463X.jpg" group-title="港澳台",港台电视33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P322164522U5.jpg" group-title="港澳台",凤凰电影
+http://hdtv.haust.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PG11I415a1.jpg" group-title="港澳台",Now直播台
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PG11QQ2114.jpg" group-title="港澳台",Now新闻台
+http://livetv.dnsfor.me/channel.4.m3u8
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/19/1-1Z91G24944Z2.jpg" group-title="港澳台",Now财经台
+http://www.navchina.cf/IPTV/now.php?id=333
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-20040Q335270-L.jpg" group-title="港澳台",Now Sports Prime
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P602154AA34.jpg" group-title="港澳台",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q00Q44S9149.jpg" group-title="港澳台",天映频道
+http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P92H244530-L.jpg" group-title="港澳台",天映经典
+http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/allimg/20/1-2002031615560-L.jpg" group-title="港澳台",Thrill
+http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8
