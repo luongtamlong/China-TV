@@ -1,47 +1,47 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://nettvpro.live/uploads/18/1-1P3221K936337.jpg" group-title="央视频道",CCTV1
-http://39.135.32.235:6610/PLTV/77777777/224/3221225674/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225674/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="2" tvg-logo="https://nettvpro.live/uploads/18/1-1P3221K402528.jpg" group-title="央视频道",CCTV2
-http://39.135.32.235:6610/PLTV/77777777/224/3221225676/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225676/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="3" tvg-logo="https://nettvpro.live/uploads/161229/1-1612292119203A.jpg" group-title="央视频道",CCTV3
-http://39.135.32.235:6610/PLTV/77777777/224/3221225677/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225677/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="4" tvg-logo="https://nettvpro.live/uploads/18/1-1P525203500491.jpg" group-title="央视频道",CCTV4
-http://39.135.32.235:6610/PLTV/77777777/224/3221225753/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225753/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="http://nettvpro.live/uploads/19/1-19103016035W49.jpg" group-title="央视频道",CCTV4-欧洲
 http://120.221.40.77:6410/shandong_cabletv.live.zte.com/1/1/1/CHANNEL00000350/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="http://nettvpro.live/uploads/19/1-191030155JY51.jpg" group-title="央视频道",CCTV4-美洲
 http://120.221.40.77:6410/shandong_cabletv.live.zte.com/1/1/1/CHANNEL00000351/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://nettvpro.live/uploads/18/1-1PZ21S93X48.jpg" group-title="央视频道",CCTV5
-http://39.135.32.235:6610/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="6" tvg-logo="https://nettvpro.live/uploads/170103/1-1F1031Q640N5.jpg" group-title="央视频道",CCTV5+
-http://39.135.32.235:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="7" tvg-logo="https://nettvpro.live/uploads/18/1-1P5051S2514L.jpg" group-title="央视频道",CCTV6
-http://39.135.32.235:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="8" tvg-logo="https://nettvpro.live/uploads/18/1-1P5051U200938.jpg" group-title="央视频道",CCTV7
-http://39.135.32.235:6610/PLTV/77777777/224/3221225627/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225627/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="9" tvg-logo="https://nettvpro.live/uploads/18/1-1P50519140W57.jpg" group-title="央视频道",CCTV8
-http://39.135.32.235:6610/PLTV/77777777/224/3221225630/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225630/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="10" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P505191A5108.jpg" group-title="央视频道",CCTV9
-http://39.135.32.235:6610/PLTV/77777777/224/3221225633/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225633/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="11" tvg-logo="https://nettvpro.live/uploads/18/1-1P505193303U5.jpg" group-title="央视频道",CCTV10
-http://39.135.32.235:6610/PLTV/77777777/224/3221225624/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225624/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="12" tvg-logo="https://nettvpro.live/uploads/18/1-1P505193520354.jpg" group-title="央视频道",CCTV11
-http://39.135.32.235:6610/PLTV/77777777/224/3221225750/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225750/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="13" tvg-logo="https://nettvpro.live/uploads/18/1-1P50519503G14.jpg" group-title="央视频道",CCTV12
-http://39.135.32.235:6610/PLTV/77777777/224/3221225670/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225670/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="14" tvg-logo="https://nettvpro.live/uploads/18/1-1P503221404532.jpg" group-title="央视频道",CCTV13
-http://39.135.32.235:6610/PLTV/77777777/224/3221225787/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225787/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="15" tvg-logo="https://nettvpro.live/uploads/18/1-1P505205406394.jpg" group-title="央视频道",CCTV14
-http://39.135.32.235:6610/PLTV/77777777/224/3221226031/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221226031/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="16" tvg-logo="https://nettvpro.live/uploads/18/1-1P505205920194.jpg" group-title="央视频道",CCTV15
-http://39.135.32.235:6610/PLTV/77777777/224/3221225963/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225963/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="7249" tvg-logo="http://nettvpro.live/uploads/allimg/19/1-1ZP41A0430-L.jpg" group-title="央视频道",CCTV16
-http://39.135.32.235:6610/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="17" tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1ZP32340320-L.jpg" group-title="央视频道",CCTV17
-http://39.135.32.235:6610/PLTV/77777777/224/3221226043/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221226043/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="106" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1Q00GZ6250-L.jpg" group-title="4K频道",CCTV4K
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #http://120.39.196.223/liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo="https://nettvpro.live/uploads/18/1-1P5091K21J64.jpg" group-title="央视频道",CGTN
 http://120.221.40.77:6410/shandong_cabletv.live.zte.com/1/1/1/CHANNEL00000352/index.m3u8
@@ -59,13 +59,17 @@ http://120.221.40.77:6410/shandong_cabletv.live.zte.com/1/1/1/CHANNEL00000356/in
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141J545P8.jpg" group-title="央视付费",电视指南
 http://[2409:8087:6a01:1020::105]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6000" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G423240.jpg" group-title="央视付费",风云足球
-http://live.cooltv.top/tv/yqdtv.php?id=078
+http://fxhack.f3322.org:8000/udp/239.253.43.20:5146
+#http://live.cooltv.top/tv/yqdtv.php?id=078
 #EXTINF:-1 tvg-id="6557" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G505606.jpg" group-title="央视付费",风云音乐
-http://live.cooltv.top/tv/yqdtv.php?id=096
+http://fxhack.f3322.org:8000/udp/239.253.43.29:5146
+#http://live.cooltv.top/tv/yqdtv.php?id=096
 #EXTINF:-1 tvg-id="6558" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141J315L0.jpg" group-title="央视付费",第一剧场
-http://live.cooltv.top/tv/yqdtv.php?id=080
+http://fxhack.f3322.org:8000/udp/239.253.43.28:5146
+#http://live.cooltv.top/tv/yqdtv.php?id=080
 #EXTINF:-1 tvg-id="6559" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G544918.jpg" group-title="央视付费",风云剧场
-http://live.cooltv.top/tv/yqdtv.php?id=079
+http://fxhack.f3322.org:8000/udp/239.253.43.26:5146
+#http://live.cooltv.top/tv/yqdtv.php?id=079
 #EXTINF:-1 tvg-id="6560" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G315Y5.jpg" group-title="央视付费",世界地理
 http://[2409:8087:6a01:1020::105]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6562" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141J20T52.jpg" group-title="央视付费",怀旧剧场
@@ -73,7 +77,8 @@ http://[2409:8087:6a01:1020::105]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 #EXTINF:-1 tvg-id="6563" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141J452591.jpg" group-title="央视付费",兵器科技
 http://[2409:8087:6a01:1020::105]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6564" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141I942294.jpg" group-title="央视付费",女性时尚
-http://111.20.33.84/TVOD/88888893/224/3221226237/index.m3u8
+http://fxhack.f3322.org:8000/udp/239.253.43.23:5146
+#http://111.20.33.84/TVOD/88888893/224/3221226237/index.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4141G93E06.jpg" group-title="央视付费",高尔夫网球
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 #http://[2409:8087:6a01:1020::105]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
@@ -92,55 +97,55 @@ http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/zgqx/1300000/mnf
 
 
 #EXTINF:-1 tvg-id="27" tvg-logo="https://nettvpro.live/uploads/19/1-1Z209140042H4.jpg" group-title="卫视频道",湖南卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225692/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225692/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="28" tvg-logo="https://nettvpro.live/uploads/18/1-1P40ZJ6059E.jpg" group-title="卫视频道",浙江卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225695/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225695/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="29" tvg-logo="https://nettvpro.live/uploads/19/1-1Z130164915261.jpg" group-title="卫视频道",江苏卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225966/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225966/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="30" tvg-logo="https://nettvpro.live/uploads/18/1-1P503203952229.jpg" group-title="卫视频道",北京卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225907/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225907/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="31" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P121225J50-L.jpg" group-title="卫视频道",东方卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221226040/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221226040/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="32" tvg-logo="https://nettvpro.live/uploads/19/1-1Z32R3441K51.jpg" group-title="卫视频道",安徽卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221226034/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221226034/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="33" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191I004553.jpg" group-title="卫视频道",广东卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225964/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225964/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="34" tvg-logo="https://nettvpro.live/uploads/18/1-1PH9202022M3.jpg" group-title="卫视频道",深圳卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225943/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225943/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="36" tvg-logo="https://nettvpro.live/uploads/18/1-1PZH02040491.jpg" group-title="卫视频道",辽宁卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225958/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225958/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://nettvpro.live/uploads/19/1-1Z50119294HN.jpg" group-title="卫视频道",海南卫视
 http://39.135.138.58:18890/PLTV/88888910/224/3221226212/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="38" tvg-logo="https://nettvpro.live/uploads/19/1-1Z2031324415Q.jpg" group-title="卫视频道",山东卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225949/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225949/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="39" tvg-logo="https://nettvpro.live/uploads/170101/1-1F1011UP0242.jpg" group-title="卫视频道",天津卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225940/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225940/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="40" tvg-logo="https://nettvpro.live/uploads/19/1-1Z411121I3C3.jpg" group-title="卫视频道",重庆卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225952/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225952/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="41" tvg-logo="https://nettvpro.live/uploads/18/1-1P331133414641.jpg" group-title="卫视频道",东南卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225696/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225696/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="42" tvg-logo="https://nettvpro.live/uploads/19/1-1Z430000933P8.jpg" group-title="卫视频道",甘肃卫视
 http://39.134.32.105:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="43" tvg-logo="https://nettvpro.live/uploads/18/1-1P52Z050022B.jpg" group-title="卫视频道",广西卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="44" tvg-logo="https://nettvpro.live/uploads/21/1-210221133339646.jpg" group-title="卫视频道",贵州卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="45" tvg-logo="https://nettvpro.live/uploads/19/1-1Z41520244N44.jpg" group-title="卫视频道",河北卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="46" tvg-logo="https://nettvpro.live/uploads/19/1-1Z322140P4623.jpg" group-title="卫视频道",黑龙江卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225955/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225955/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="47" tvg-logo="https://nettvpro.live/uploads/18/1-1P503204KGW.jpg" group-title="卫视频道",河南卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="48" tvg-logo="https://nettvpro.live/uploads/170102/1-1F102195131O6.jpg" group-title="卫视频道",湖北卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225969/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225969/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="50" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P930232F1108.jpg" group-title="卫视频道",江西卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="51" tvg-logo="https://nettvpro.live/uploads/19/1-1Z21216160SO.jpg" group-title="卫视频道",吉林卫视
 http://39.134.65.216/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-logo="https://nettvpro.live/uploads/19/1-1Z212160P5C7.jpg" group-title="卫视频道",内蒙古卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="53" tvg-logo="https://nettvpro.live/uploads/19/1-1Z2201GR1F5.jpg" group-title="卫视频道",宁夏卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="54" tvg-logo="https://nettvpro.live/uploads/19/1-1Z41G40J2110.jpg" group-title="卫视频道",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo="https://nettvpro.live/uploads/170103/1-1F103130AAU.jpg" group-title="卫视频道",陕西卫视
@@ -154,28 +159,28 @@ http://203.205.137.156/livehyw5.chinamcache.com/hyw/zb01.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228169/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-logo="https://nettvpro.live/uploads/18/1-1Q11G94924201.jpg" group-title="卫视频道",青海卫视
 http://120.221.40.77:6410/shandong_cabletv.live.zte.com/1/1/1/CHANNEL00000366/index.m3u8
-#http://39.135.32.235:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
+#http://39.135.32.235:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="60" tvg-logo="https://nettvpro.live/uploads/18/1-1P521150339B7.jpg" group-title="卫视频道",南方卫视
 https://www.nettvpro.live/hls/itouch.php?id=1197
 #EXTINF:-1 tvg-id="61" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHG51212955.jpg" group-title="卫视频道",兵团卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="63" tvg-logo="https://nettvpro.live/uploads/18/1-1P319114F2353.jpg" group-title="卫视频道",延边卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-logo="https://nettvpro.live/uploads/19/1-1Z41G4364G33.jpg" group-title="卫视频道",黄河卫视
 http://liveflash.sxrtv.com/live/huanghe.m3u8
 #https://nettvpro.live/hls/cutv.php?id=sxhh
 #EXTINF:-1 tvg-id="68" tvg-logo="https://nettvpro.live/uploads/18/1-1P426213405c4.jpg" group-title="卫视频道",厦门卫视
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="69" tvg-logo="https://nettvpro.live/uploads/18/1-1P604203405305.jpg" group-title="卫视频道",金鹰卡通
 http://39.135.138.58:18890/PLTV/88888888/224/3221226246/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="70" tvg-logo="https://nettvpro.live/uploads/18/1-1P604124640R5.jpg" group-title="卫视频道",康巴卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-logo="https://nettvpro.live/uploads/18/1-1PHG21032944.jpg" group-title="卫视频道",西藏卫视
-http://39.135.32.235:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="72" tvg-logo="https://nettvpro.live/uploads/18/1-1PS1213339246.jpg" group-title="卫视频道",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P331133954G1.jpg" group-title="卫视频道",海峡卫视
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/20/1-20111614254W53.jpg" group-title="4K频道",爱上4k
@@ -203,7 +208,7 @@ http://bit.ly/3wCwzsA
 #EXTINF:-1 tvg-id="67" tvg-logo="https://www.nettvpro.live/uploads/18/1-1Q102224930P8.jpg" group-title="北京频道",卡酷动画
 http://bit.ly/3C6qO7C
 #EXTINF:-1 tvg-id="1872" tvg-logo="https://nettvpro.live/uploads/19/1-1Z51122051RT.jpg" group-title="北京频道",北京纪实
-http://39.135.32.235:6610/PLTV/77777777/224/3221225975/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225975/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q24129621.jpg" group-title="北京频道",北京文艺
 http://bit.ly/30fow9j
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q2433X35.jpg" group-title="北京频道",北京科教
@@ -260,7 +265,7 @@ http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/
 #EXTINF:-1 tvg-id="1987" tvg-logo="http://nettvpro.live/uploads/18/1-1P5121J6453Z.jpg" group-title="上海频道",五星体育频道
 http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-logo="https://nettvpro.live/uploads/18/1-1P5121G151945.jpg" group-title="上海频道",上海纪实
-http://39.135.32.235:6610/PLTV/77777777/224/3221226037/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221226037/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="1989" tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1Z1301451090-L.jpg" group-title="上海频道",上海都市频道
 http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-logo="https://nettvpro.live/uploads/18/1-1P5121I40S45.jpg" group-title="上海频道",上视外语频道
@@ -297,14 +302,14 @@ http://124.232.233.16:6610/000000001001/201600020005/index.m3u8?m3u8_level=2&isp
 #EXTINF:-1 tvg-id="1044" tvg-logo="https://nettvpro.live/uploads/19/1-1Z130163Hcc.jpg" group-title="江苏频道",靓妆频道
 http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1046" tvg-logo="https://nettvpro.live/uploads/19/1-1Z1301645054E.jpg" group-title="江苏频道",优漫卡通
-http://39.135.32.235:6610/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="6623" tvg-logo="https://nettvpro.live/uploads/19/1-1Z1301F921231.jpg" group-title="江苏频道",财富天下
 http://111.20.33.93/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226350/index.m3u8
 
 #EXTINF:-1 tvg-id="6010" tvg-logo="https://nettvpro.live/uploads/18/1-1P503212J3427.jpg" group-title="广东频道",嘉佳卡通
 https://www.nettvpro.live/hls/itouch.php?id=1187
 #EXTINF:-1 tvg-id="6013" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191F354Q9.jpg" group-title="广东频道",广东体育
-http://py.fatcat.icu:8880/hls/5/index.m3u8
+http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
 #https://www.nettvpro.live/hls/itouch.php?id=1184
 #EXTINF:-1 tvg-id="6014" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191F604931.jpg" group-title="广东频道",广东公共
 https://www.nettvpro.live/hls/itouch.php?id=1185
@@ -313,7 +318,7 @@ https://www.nettvpro.live/hls/itouch.php?id=1186
 #EXTINF:-1 tvg-id="6017" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191H52V22.jpg" group-title="广东频道",广东国际
 https://www.nettvpro.live/hls/itouch.php?id=1191
 #EXTINF:-1 tvg-id="7125" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191F915431.jpg" group-title="广东频道",珠江频道
-http://39.135.32.235:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="7250" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191I215631.jpg" group-title="广东频道",广东影视
 https://www.nettvpro.live/hls/itouch.php?id=1199
 #EXTINF:-1 tvg-id="7251" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191I60A11.jpg" group-title="广东频道",广东综艺
@@ -323,25 +328,27 @@ https://www.nettvpro.live/hls/itouch.php?id=1196
 #EXTINF:-1 tvg-id="7253" tvg-logo="https://nettvpro.live/uploads/18/1-1P521161AA25.jpg" group-title="广东频道",广东少儿
 https://www.nettvpro.live/hls/itouch.php?id=1200
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191K53BH.jpg" group-title="广东频道",南方购物
-#https://www.nettvpro.live/hls/itouch.php?id=2393
+http://fxhack.f3322.org:8000/udp/239.77.0.19:5146
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191H1261E.jpg" group-title="广东频道",岭南戏曲
-http://py.fatcat.icu:8880/hls/14/index.m3u8
+http://fxhack.f3322.org:8000/udp/239.77.0.16:5146
 #https://www.nettvpro.live/hls/itouch.php?id=2510
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P521163Q0324.jpg" group-title="广东频道",广东房产
-http://py.fatcat.icu:8880/hls/13/index.m3u8
+http://fxhack.f3322.org:8000/udp/239.77.0.14:5146
 #https://www.nettvpro.live/hls/itouch.php?id=1192
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191G954b5.jpg" group-title="广东频道",现代教育
-#https://www.nettvpro.live/hls/itouch.php?id=2436
+http://fxhack.f3322.org:8000/udp/239.77.0.18:5146
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191GS54a.jpg" group-title="广东频道",广东移动
 https://www.nettvpro.live/hls/itouch.php?id=2463
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-200H11155170-L.jpg" group-title="广东频道",广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P530221032426.jpg" group-title="广东频道",揭阳综合
-http://dslive.grtn.cn/jyzh/sd/live.m3u8
+http://fxhack.f3322.org:8000/udp/239.77.0.229:5146
+#http://dslive.grtn.cn/jyzh/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P5302213003C.jpg" group-title="广东频道",揭阳公共
-
+http://fxhack.f3322.org:8000/udp/239.77.0.251:5146
 #EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P530211S5L3.jpg" group-title="广东频道",汕头综合
-http://dslive.grtn.cn/stzh/sd/live.m3u8
+http://fxhack.f3322.org:8000/udp/239.77.1.130:5146
+#http://dslive.grtn.cn/stzh/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/19/1-1ZQ61135200-L.jpg" group-title="广东频道",普宁台
 http://nettvpro.live/hls/itouch.php?id=2450
 
@@ -349,13 +356,13 @@ http://nettvpro.live/hls/itouch.php?id=2450
 #EXTINF:-1 tvg-id="73" tvg-logo="https://nettvpro.live/uploads/allimg/18/1_0312125120KN.jpg" group-title="数字付费",中国教育1台
 http://39.135.138.58:18890/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="74" tvg-logo="https://nettvpro.live/uploads/allimg/18/1_0312125J3ZP.jpg" group-title="数字付费",中国教育2台
-http://39.135.32.235:6610/PLTV/77777777/224/3221225881/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225881/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="75" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_0312130151WB.jpg" group-title="数字付费",中国教育3台
 http://111.20.33.93/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226226/index.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-logo="https://nettvpro.live/uploads/allimg/18/1_031213034WR0.jpg" group-title="数字付费",中国教育4台
-http://39.135.32.235:6610/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="6581" tvg-logo="http://nettvpro.live/uploads/19/1-1Z122121620143.jpg" group-title="数字付费",早期教育
-
+http://fxhack.f3322.org:8000/udp/239.77.0.180:5146
 
 #EXTINF:-1 tvg-id="6241" tvg-logo="https://nettvpro.live/uploads/19/1-1Z406133R5D0.jpg" group-title="数字付费",CHC高清电影
 http://111.20.33.85/TVOD/88888893/224/3221226463/index.m3u8
@@ -375,7 +382,7 @@ http://39.134.32.102:6610/270000001111/1110000320/index.m3u8?IASHttpSessionId=OT
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P5112159470-L.jpg" group-title="数字付费",IPTV法制
 http://39.134.32.102:6610/270000001111/1110000334/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="102" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P5112149410-L.jpg" group-title="数字付费",IPTV热播剧场
-
+http://fxhack.f3322.org:8000/udp/239.77.1.90:5146
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P511215A10-L.jpg" group-title="数字付费",IPTV相声小品
 http://39.134.32.102:6610/270000001111/1110000335/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/20/1-20020119460IS.jpg" group-title="数字付费",IPTV谍战剧场
@@ -516,7 +523,7 @@ http://39.135.138.58:18890/PLTV/88888910/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426222232647.jpg" group-title="Newtv",农业致富
 http://39.135.138.58:18890/PLTV/88888910/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-191215202451457.jpg" group-title="Newtv",动作电影
-http://39.135.32.235:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P4262246003C.jpg" group-title="Newtv",古装剧场
 http://39.135.138.58:18890/PLTV/88888910/224/3221225678/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426224331251.jpg" group-title="Newtv",家庭剧场
@@ -524,7 +531,7 @@ http://39.135.138.58:18890/PLTV/88888910/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-200612000H70-L.jpg" group-title="Newtv",怡伴健康
 http://39.135.138.58:18890/PLTV/88888910/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P42622394O34.jpg" group-title="Newtv",惊悚悬疑
-http://39.135.32.235:6610/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1
+http://39.135.32.235:6610/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P42616140Na.jpg" group-title="Newtv",明星大片
 http://39.135.138.58:18890/PLTV/88888910/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P426225Q10-L.jpg" group-title="Newtv",武搏世界
@@ -609,7 +616,7 @@ http://livetv.dnsfor.me/channel.1.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P41QA234925.jpg" group-title="港澳台",港台電視32
 http://livetv.dnsfor.me/channel.2.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P322164522U5.jpg" group-title="港澳台",凤凰电影
-
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PG11I415a1.jpg" group-title="港澳台",Now直播台
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PG11QQ2114.jpg" group-title="港澳台",Now新闻台
