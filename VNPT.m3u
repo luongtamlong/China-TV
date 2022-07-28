@@ -45,7 +45,7 @@ rtp://@232.84.2.190:10924
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/E_CHANNEL_M.jpg" tvg-id="vtvcab5hd",VTVCab5 - E Channel
 rtp://@232.84.1.193:9132
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsports_480x2702.jpg" tvg-id="vtvcab6hd",On Sports+ HD
-http://live.television4you.xyz:8080/vtvcab6
+https://api.television4you.xyz/v1/getlink/tv360_s2/183/2
 #rtp://@232.84.1.220:9294
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832391120.png" tvg-id="vtvcab7hd",VTVCab7 - Sức khỏe và Cuộc sống
 rtp://@232.84.1.26:8130
@@ -71,9 +71,9 @@ rtp://@232.84.3.218:11230
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/VFAMILY_M.jpg" tvg-id="vtvcab20hd",VTVCab20 - VFamily
 rtp://@232.84.1.245:10344
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/BIBIPLUS_HD_M.jpg" tvg-id="vtvcab21hd", VTVcab 21 - Cartoon Kids HD
-http://live.television4you.xyz:8080/vtvcab21
+https://api.television4you.xyz/v1/getlink/tv360_s2/179/2
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cab22_HD800x4501.jpg" tvg-id="vtvcab22hd", VTVcab 22 - Life TV
-http://gg.gg/cccab22
+https://api.television4you.xyz/v1/getlink/tv360_s2/188/2
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2701.jpg" tvg-id="vtvcab23hd",ON Golf (HD 8Mbps)
 rtp://@232.84.2.246:10876
 
@@ -167,7 +167,8 @@ rtp://@232.84.1.55:8310
 #EXTINF:-1 group-title="Other Channel" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg" tvg-id="youtv",YOU TV
 https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Other Channel" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/z3071477254364-2ca898e5ea970f7a712cfd2a8c31fbdf_0d8d29dd.jpg",An Ninh Thế Giới
-https://e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=http://sctvonline.vn/
+https://api.television4you.xyz/v1/getlink/tv360_s2/21/0
+#https://e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png" tvg-id="sctv1hd",SCTV1 HD
 https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
@@ -410,15 +411,16 @@ https://vtsstr7.tv24.vn/live/BOX_MOVIE_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068836041.png",Hollywood Classics
 https://vtsstr7.tv24.vn/live/Hollywood.smil/playlist.m3u8
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg" tvg-id="inthebox",In The Box
-http://live.television4you.xyz:8080/inthebox
+https://api.television4you.xyz/v1/getlink/tv360_s2/235/2
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg" tvg-id="boxhits",BOX HITS (HD 4Mbps)
 rtp://@232.84.1.77:8436
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Man_480x2701j3.jpg" tvg-id="man",Man
-http://live.television4you.xyz:8080/man
+https://api.television4you.xyz/v1/getlink/tv360_s2/237/2
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068813680.png" tvg-id="woman",Woman
 https://vtsstr7.tv24.vn/live/Woman.smil/playlist.m3u8
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068777998.png" tvg-id="drfithd",Dr.Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://api.television4you.xyz/v1/getlink/tv360_s2/162/2
+#https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/MusicBox_480x2701j1.jpg" tvg-id="musicbox",Music Box (HD 8Mbps)
 rtp://@232.84.1.13:8052
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png" tvg-id="planetearthhd",Planet Earth
@@ -493,6 +495,8 @@ rtp://@232.84.2.123:8454
 rtp://@232.84.1.72:8406
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" tvg-id="outdoorhd",Outdoor Channel (HD 8Mbps)
 rtp://@232.84.1.107:10218
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Paramount_800x4501.jpg" tvg-id="paramouthd",Paramount Channel
+https://api.television4you.xyz/v1/getlink/tv360_s2/150/2
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" tvg-id="tlchd",TLC (HD 6Mbps)
 rtp://@232.84.3.156:10708
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://nettvpro.live/uploads/allimg/19/1-1Z2022244050-L.jpg",TVE (HD 6.5Mbps)
