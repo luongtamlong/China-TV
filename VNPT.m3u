@@ -1,30 +1,21 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1 catchup="append"
 #EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 catchup="append"
 
-#EXTINF:-1 group-title="K+" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" tvg-id="kcinehd",K+Cine (HD 7Mbps)
-rtp://@232.84.1.122:10314
-#EXTINF:-1 group-title="K+" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" tvg-id="klifehd",K+Life (HD 7Mbps)
-rtp://@232.84.1.123:10320
-#EXTINF:-1 group-title="K+" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" tvg-id="ksport1hd",K+Sport1 (HD 7Mbps)
-rtp://@232.84.1.125:10326
-#EXTINF:-1 group-title="K+" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" tvg-id="ksport2hd",K+Sport2 (HD 7Mbps)
-rtp://@232.84.1.176:10374
-
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" tvg-id="vtv1hd",VTV1 (HD 6.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" tvg-id="vtv1hd",VTV1 (HD 7.5Mbps)
 rtp://@232.84.1.117:10254
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" tvg-id="vtv2hd",VTV2 (HD 8Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" tvg-id="vtv2hd",VTV2 (HD 7.5Mbps)
 rtp://@232.84.2.31:10594
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg" tvg-id="vtv3hd",VTV3 (HD 6.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg" tvg-id="vtv3hd",VTV3 (HD 7.5Mbps)
 rtp://@232.84.1.118:10260
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg" tvg-id="vtv4hd",VTV4 (HD 6.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg" tvg-id="vtv4hd",VTV4 (HD 7.5Mbps)
 rtp://@232.84.3.106:10600
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg" tvg-id="vtv5hd",VTV5 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg" tvg-id="vtv5hd",VTV5 (HD 8Mbps)
 rtp://@232.84.2.33:10606
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg" tvg-id="vtv6hd",VTV6 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg" tvg-id="vtv6hd",VTV6 (HD 8Mbps)
 rtp://@232.84.1.119:10266
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png" tvg-id="vtv7hd",VTV7 (HD 6Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png" tvg-id="vtv7hd",VTV7 (HD 7.5Mbps)
 rtp://@232.84.2.202:10996
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg" tvg-id="vtv8hd",VTV8 (HD 6Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg" tvg-id="vtv8hd",VTV8 (HD 7.5Mbps)
 rtp://@232.84.3.104:10612
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg" tvg-id="vtv9hd",VTV9 (HD 7.5Mbps)
 rtp://@232.84.2.35:10618
@@ -495,8 +486,6 @@ rtp://@232.84.2.123:8454
 rtp://@232.84.1.72:8406
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" tvg-id="outdoorhd",Outdoor Channel (HD 8Mbps)
 rtp://@232.84.1.107:10218
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Paramount_800x4501.jpg" tvg-id="paramouthd",Paramount Channel
-https://api.television4you.xyz/v1/getlink/tv360_s2/150/2
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" tvg-id="tlchd",TLC (HD 6Mbps)
 rtp://@232.84.3.156:10708
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://nettvpro.live/uploads/allimg/19/1-1Z2022244050-L.jpg",TVE (HD 6.5Mbps)
@@ -526,6 +515,8 @@ rtp://@232.84.3.207:11164
 rtp://@232.84.3.172:10494
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/340?cb=20220217141930&path-prefix=vi",OPT1
 rtp://@232.84.2.128:8352
+#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Paramount_800x4501.jpg" tvg-id="paramouthd",Paramount Channel
+https://api.television4you.xyz/v1/getlink/tv360_s2/150/2
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://escbubble.com/wp-content/uploads/2014/08/Russia-RTR-TV.gif",Россия PTP
 rtp://@232.84.2.127:8544
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="http://nettvpro.live/uploads/allimg/21/1-2104091504520-L.jpg",Rai
@@ -594,14 +585,22 @@ rtp://@232.84.1.142:10386
 #rtp://@232.84.1.208:9222
 #EXTINF:-1 group-title="DRM" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALL_480x2702.jpg" tvg-id="vtvcab16hd",ON Football
 #rtp://@232.84.1.138:8802
+#EXTINF:-1 group-title="DRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" tvg-id="kcinehd",K+Cine (HD 7Mbps)
+rtp://@232.84.1.122:10314
+#EXTINF:-1 group-title="DRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" tvg-id="klifehd",K+Life (HD 7Mbps)
+rtp://@232.84.1.123:10320
+#EXTINF:-1 group-title="DRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" tvg-id="ksport1hd",K+Sport1 (HD 7Mbps)
+rtp://@232.84.1.125:10326
+#EXTINF:-1 group-title="DRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" tvg-id="ksport2hd",K+Sport2 (HD 7Mbps)
+rtp://@232.84.1.176:10374
 #EXTINF:-1 group-title="DRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" tvg-id="kcinehd",K+Cine
-#rtp://@232.84.1.96:8550
+rtp://@232.84.1.96:8550
 #EXTINF:-1 group-title="DRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" tvg-id="klifehd",K+Life
-#rtp://@232.84.1.97:8556
+rtp://@232.84.1.97:8556
 #EXTINF:-1 group-title="DRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" tvg-id="ksport1hd",K+Sport1
-#rtp://@232.84.1.98:8562
+rtp://@232.84.1.98:8562
 #EXTINF:-1 group-title="DRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" tvg-id="ksport2hd",K+Sport2
-#rtp://@232.84.1.131:10368
+rtp://@232.84.1.131:10368
 
 #EXTINF:-1 group-title="MyTV Service" tvg-logo="https://webapi.mytv.vn/static/channel/267.png",801
 rtp://@232.84.2.175:10858
