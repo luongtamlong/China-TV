@@ -44,9 +44,9 @@ http://39.135.32.235:6610/PLTV/77777777/224/3221226043/index.m3u8?servicetype=1&
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 #http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo="https://nettvpro.live/uploads/18/1-1P5091K21J64.jpg" group-title="央视频道",CGTN
-http://[2409:8087:6a01:1020::105]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
+http://39.135.32.235:6610/000000001001/7745129417417101820/1.m3u8?stbId=3&livemode=1&channel-id=hnbblive&Contentid=7745129417417101820
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://nettvpro.live/uploads/18/1-1P5091P409564.jpg" group-title="央视频道",CGTN-记录
-http://[2409:8087:6a01:1020::105]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
+http://39.135.32.235:6610/000000001001/7114647837765104058/1.m3u8?stbId=3&livemode=1&channel-id=hnbblive&Contentid=7114647837765104058
 #EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P5101F02Q92.jpg" group-title="央视频道",CGTN-法语
 http://39.135.32.235:6610/PLTV/77777777/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://nettvpro.live/uploads/18/1-1P5101F610514.jpg" group-title="央视频道",CGTN-俄语
@@ -420,7 +420,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001319/index.m3u8?
 #EXTINF:-1 tvg-id="6612" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1PF21559300-L.jpg" group-title="数字付费",栾坛春秋
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6627" tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P50H135090-L.jpg" group-title="数字付费",百姓健康
-
+http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&programid=4200000063&playtoken=ABCDEFGHI
 
 #EXTINF:-1 tvg-logo="http://www.nettvpro.live/uploads/allimg/20/1-201116140G00-L.jpg" group-title="数字付费",精彩综艺
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
