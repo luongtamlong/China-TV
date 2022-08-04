@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1 catchup="append"
 #EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 catchup="append"
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" tvg-id="vtv1hd",VTV1 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" tvg-id="vtv1hd",VTV1 (HD 8Mbps)
 rtp://@232.84.1.117:10254
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" tvg-id="vtv2hd",VTV2 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" tvg-id="vtv2hd",VTV2 (HD 8Mbps)
 rtp://@232.84.2.31:10594
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg" tvg-id="vtv3hd",VTV3 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg" tvg-id="vtv3hd",VTV3 (HD 8Mbps)
 rtp://@232.84.1.118:10260
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg" tvg-id="vtv4hd",VTV4 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg" tvg-id="vtv4hd",VTV4 (HD 8Mbps)
 rtp://@232.84.3.106:10600
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg" tvg-id="vtv5hd",VTV5 (HD 8Mbps)
 rtp://@232.84.2.33:10606
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg" tvg-id="vtv6hd",VTV6 (HD 8Mbps)
 rtp://@232.84.1.119:10266
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png" tvg-id="vtv7hd",VTV7 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png" tvg-id="vtv7hd",VTV7 (HD 8Mbps)
 rtp://@232.84.2.202:10996
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg" tvg-id="vtv8hd",VTV8 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg" tvg-id="vtv8hd",VTV8 (HD 8Mbps)
 rtp://@232.84.3.104:10612
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg" tvg-id="vtv9hd",VTV9 (HD 7.5Mbps)
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg" tvg-id="vtv9hd",VTV9 (HD 8Mbps)
 rtp://@232.84.2.35:10618
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="http://onetv.click/logo/vtv5hdtn.png" tvg-id="vtv5hdtn",VTV5 Tây Nguyên
 http://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
@@ -27,29 +27,36 @@ http://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/GIAITRI_TV_HD_M.jpg" tvg-id="vtvcab1hd",VTVCab1 - Vie Giải Trí HD
 https://api.television4you.xyz/v1/getlink/vieon/vie-giai-tri-hd
 #rtp://@232.84.1.143:8832
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab2-PhimViet_480x2701.jpg" tvg-id="vtvcab2hd",ON Phim Việt
-rtp://@232.84.1.168:8982
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab2-PhimViet_480x2701.jpg" tvg-id="vtvcab2hd",ON Phim Việt HD
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab2-on-phim-viet
+#rtp://@232.84.1.168:8982
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONSPORTSHD_480x2701.jpg" tvg-id="vtvcab3hd",ON Sports (HD 8Mbps)
 rtp://@232.84.1.207:9216
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584928903629.png" tvg-id="vtvcab4hd",VTVCab4 - Phim Đặc Sắc (HD 8Mbps)
 rtp://@232.84.2.190:10924
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/E_CHANNEL_M.jpg" tvg-id="vtvcab5hd",VTVCab5 - E Channel
-rtp://@232.84.1.193:9132
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/E_CHANNEL_M.jpg" tvg-id="vtvcab5hd",VTVCab5 - E Channel HD
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab5-e-channel
+#rtp://@232.84.1.193:9132
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsports_480x2702.jpg" tvg-id="vtvcab6hd",On Sports+ HD
-https://api.television4you.xyz/v1/getlink/tv360_s2/183/2
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab6-on-sport-plus
 #rtp://@232.84.1.220:9294
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832391120.png" tvg-id="vtvcab7hd",VTVCab7 - Sức khỏe và Cuộc sống
-rtp://@232.84.1.26:8130
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832391120.png" tvg-id="vtvcab7hd",VTVCab7 - Sức khỏe và Cuộc sống HD
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab7
+#rtp://@232.84.1.26:8130
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BIBI_M2.jpg" tvg-id="vtvcab8hd",VTVCab8 - BiBi (HD 8Mbps)
 rtp://@232.84.3.217:11224
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/INFO_TV_M.jpg" tvg-id="vtvcab9hd",VTVCab9 - Info TV
-rtp://@232.84.2.191:10930
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Kenh10_480x2701.jpg" tvg-name="VTVCab10 - ON Cine",ON Cine
-rtp://@232.84.1.205:9204
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/STYLE_TV_HD_M.jpg" tvg-id="vtvcab12hd",VTVCab12 - Style TV
-rtp://@232.84.1.244:9438
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab15_800x4501.jpg" tvg-id="vtvcab15hd",VTVCab15
-rtp://@232.84.2.192:10936
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/INFO_TV_M.jpg" tvg-id="vtvcab9hd",VTVCab9 - Info TV HD
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab9-info-tv
+#rtp://@232.84.2.191:10930
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Kenh10_480x2701.jpg" tvg-name="VTVCab10 - ON Cine",ON Cine HD
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab10-on-cine
+#rtp://@232.84.1.205:9204
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/STYLE_TV_HD_M.jpg" tvg-id="vtvcab12hd",VTVCab12 - Style TV HD
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab12-style-tv
+#rtp://@232.84.1.244:9438
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/VTVcab15_800x4501.jpg" tvg-id="vtvcab15hd",VTVCab15 HD
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab15
+#rtp://@232.84.2.192:10936
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONFOOTBALLHD_480x2701.jpg" tvg-id="vtvcab16hd",ON Football (HD 8Mbps)
 rtp://@232.84.1.210:9234
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/YEAH1_TV_M.jpg" tvg-id="vtvcab17hd",VTVCab17 - Yeah1 TV HD
@@ -62,9 +69,9 @@ rtp://@232.84.3.218:11230
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/VFAMILY_M.jpg" tvg-id="vtvcab20hd",VTVCab20 - VFamily
 rtp://@232.84.1.245:10344
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/BIBIPLUS_HD_M.jpg" tvg-id="vtvcab21hd", VTVcab 21 - Cartoon Kids HD
-https://api.television4you.xyz/v1/getlink/tv360_s2/179/2
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cab22_HD800x4501.jpg" tvg-id="vtvcab22hd", VTVcab 22 - Life TV
-https://api.television4you.xyz/v1/getlink/tv360_s2/188/2
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab21-cartoon-kid
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cab22_HD800x4501.jpg" tvg-id="vtvcab22hd", VTVcab 22 - Life TV HD
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab22-life-tv
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONGOLF_480x2701.jpg" tvg-id="vtvcab23hd",ON Golf (HD 8Mbps)
 rtp://@232.84.2.246:10876
 
@@ -97,8 +104,9 @@ rtp://@232.84.1.74:8418
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png" tvg-id="vtc14hd",VTC14 HD
 http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #rtp://@232.84.1.216:9270
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png" tvg-id="vtc16",VTC16
-rtp://@232.84.1.215:9264
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png" tvg-id="vtc16",VTC16 HD
+https://api.television4you.xyz/v1/getlink/vieon/vtc16-hd
+#rtp://@232.84.1.215:9264
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg" tvg-id="vovtvhd",VOVTV
 rtp://@232.84.1.46:8256
 
@@ -245,7 +253,7 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg",Bình Phước 2 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ant_164325398349.jpg",Bình Phước 3
-https://vips-livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
+#https://vips-livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg",Bình Thuận
 https://vips-livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 #rtp://@232.84.2.77:8820
@@ -402,15 +410,15 @@ https://vtsstr7.tv24.vn/live/BOX_MOVIE_HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068836041.png",Hollywood Classics
 https://vtsstr7.tv24.vn/live/Hollywood.smil/playlist.m3u8
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg" tvg-id="inthebox",In The Box
-https://api.television4you.xyz/v1/getlink/tv360_s2/235/2
+https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg" tvg-id="boxhits",BOX HITS (HD 4Mbps)
 rtp://@232.84.1.77:8436
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Man_480x2701j3.jpg" tvg-id="man",Man
-https://api.television4you.xyz/v1/getlink/tv360_s2/237/2
+https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068813680.png" tvg-id="woman",Woman
 https://vtsstr7.tv24.vn/live/Woman.smil/playlist.m3u8
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068777998.png" tvg-id="drfithd",Dr.Fit
-https://api.television4you.xyz/v1/getlink/tv360_s2/162/2
+https://code.television4you.xyz/getlink/nethubtv?id=9335&itb=1
 #https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/MusicBox_480x2701j1.jpg" tvg-id="musicbox",Music Box (HD 8Mbps)
 rtp://@232.84.1.13:8052
@@ -576,10 +584,12 @@ https://vips-livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3
 rtp://@232.84.3.254:11446
 #EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://static-stage.tv24.vn/channel/115/logo26072108_sctv10.png" tvg-id="sctv10hd",SCTV10 - VTV Hyundai
 https://vtsstr4.tv24.vn/live/sctv10_SD_new.smil/playlist.m3u8
-#EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gs-shop_162952542859.jpg" tvg-id="vtvcab11hd",VTVCab11 - GS SHOP
+#EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ON_480x2701.jpg" tvg-id="vtvcab11hd",VTVCab11 - GS SHOP
 rtp://@232.84.1.229:9348
-#EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg" tvg-id="vtvcab13hd",VTVCab13 - VTV Hyundai Homeshopping
+#EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/800x4501.jpg" tvg-id="vtvcab13hd",VTVCab13 - VTV Hyundai
 rtp://@232.84.1.142:10386
+#EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/ckpggiv2_vtvcab14-thumb_296_168.png",VTVCab14 - VTV Hyundai 
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab14-v-shopping
 
 #EXTINF:-1 group-title="DRM" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Thumbnail_ONSPORTSHD_480x2701.jpg" tvg-id="vtvcab3hd",ON Sports
 #rtp://@232.84.1.208:9222
