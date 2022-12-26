@@ -206,13 +206,9 @@ http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgj&auth=rinimabi
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:0 tvg-id="" group-title="中文国际频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳国际
 http://iptv.cooltv.top/tv/sztv.php?id=szgj
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="中文国际频道",東南亞翡翠台
-http://line.premiumpowers.net:80/Manuel/1234567/941619
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="中文国际频道",Astro翡翠台
+http://23.237.10.66:16410
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="中文国际频道",無線新聞台香港時區
 http://iptv.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="中文国际频道",無線財經體育信息站香港時區
 http://iptv.cooltv.top/tv/tvb.php?id=2
-#EXTINF:-1 tvg-id="Fairchild.ca" tvg-name="HK| FAIRCHILD EAST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="中文国际频道",新時代電視
-http://line.premiumpowers.net:80/Dave2022/Dave2022/90350
-#EXTINF:-1 tvg-id="fairchild2.ca" tvg-name="HK| FAIRCHILD 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-2-HD.png" group-title="中文国际频道",新時代電視2台
-http://line.premiumpowers.net:80/Dave2022/Dave2022/90352
