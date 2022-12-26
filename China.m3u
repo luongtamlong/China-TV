@@ -113,6 +113,8 @@ http://xtv:1292@23.142.200.188:9981/stream/channelid/1421257512?ticket=5BF533BB2
 http://xtv:1292@23.142.200.188:9981/stream/channelid/1446971830?ticket=22C89D9620EB092185F9DA8D0A46BC24EB85997D&profile=pass
 #EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/wMzyky3/1.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",TVB Jade
 http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/jade_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/wMzyky3/1.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",TVB Jade (Guangdong Cable)
+http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/tMk1QBD/2.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",TVB Jade (Digital)
 http://xtv:1292@23.142.200.188:9981/stream/channelid/963328714?ticket=54059F0C9A4D74F378A808B68CAFD31908B54CAB&profile=pass
 #EXTINF:-1 tvg-id="045cc83fc1b56cfa434b4496e2f2a989" tvg-name="J2台" tvg-logo="https://i.ibb.co/ZHDq0vD/17.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",TVB J2
@@ -125,6 +127,8 @@ http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/inews_twn/playlist.
 http://xtv:1292@23.142.200.188:9981/stream/channelid/213479573?ticket=1F695ECD85FADD33E2B4E300FD48EA2838E33635&profile=pass
 #EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/mCbdRbZ/4.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",TVB Pearl
 http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/pearl_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/mCbdRbZ/4.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",TVB Pearl (Guangdong cable)
+http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/rp3g7n1/5.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",TVB Pearl (Digital)
 http://xtv:1292@23.142.200.188:9981/stream/channelid/1185790559?ticket=916B7F5CDC21B4BAE6E9C14757AECC9E285BF2EF&profile=pass
 #EXTINF:-1 tvg-id="9186a1cb3eceda50e270fee5f7b59a57" tvg-name="無綫財經·資訊台" tvg-logo="https://i.ibb.co/DGCkcxh/6.png" group-title="🇭🇰🇲🇴🇹🇼| Kênh Hong Kong-Macao-Đài Loan",TVB Finance - Sports - Information Channel
