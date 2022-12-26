@@ -212,3 +212,7 @@ http://line.premiumpowers.net:80/Manuel/1234567/941619
 http://iptv.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="中文国际频道",無線財經體育信息站香港時區
 http://iptv.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 tvg-id="Fairchild.ca" tvg-name="HK| FAIRCHILD EAST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="中文国际频道",新時代電視
+http://line.premiumpowers.net:80/Dave2022/Dave2022/90350
+#EXTINF:-1 tvg-id="fairchild2.ca" tvg-name="HK| FAIRCHILD 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-2-HD.png" group-title="中文国际频道",新時代電視2台
+http://line.premiumpowers.net:80/Dave2022/Dave2022/90352
