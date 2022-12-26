@@ -1,0 +1,214 @@
+#EXTM3U url-tvg="http://xtv:1292@23.142.200.188:9981/xmltv/channels,http://epg.51zmt.top:8000/e.xml"
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172:1100/cctv/CCTV1.png" group-title="中国大陆频道",CCTV1
+http://124.220.17.172:1100/aas.php?id=1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV2.png" group-title="中国大陆频道",CCTV2
+http://124.220.17.172:1100/aas.php?id=2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV3.png" group-title="中国大陆频道",CCTV3
+http://124.220.17.172:1100/aas.php?id=3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV4.png" group-title="中国大陆频道",CCTV4
+http://124.220.17.172:1100/aas.php?id=4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV5.png" group-title="中国大陆频道",CCTV5
+http://124.220.17.172:1100/aas.php?id=5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV55.png" group-title="中国大陆频道",CCTV5+
+http://124.220.17.172:1100/aas.php?id=5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV6.png" group-title="中国大陆频道",CCTV6
+http://124.220.17.172:1100/aas.php?id=6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV7.png" group-title="中国大陆频道",CCTV7
+http://124.220.17.172:1100/aas.php?id=7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV8.png" group-title="中国大陆频道",CCTV8
+http://124.220.17.172:1100/aas.php?id=8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV9.png" group-title="中国大陆频道",CCTV9
+http://124.220.17.172:1100/aas.php?id=9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV10.png" group-title="中国大陆频道",CCTV10
+http://124.220.17.172:1100/aas.php?id=10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV11.png" group-title="中国大陆频道",CCTV11
+http://124.220.17.172:1100/aas.php?id=11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV12.png" group-title="中国大陆频道",CCTV12
+http://124.220.17.172:1100/aas.php?id=12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV13.png" group-title="中国大陆频道",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV14.png" group-title="中国大陆频道",CCTV14
+http://124.220.17.172:1100/aas.php?id=14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV15.png" group-title="中国大陆频道",CCTV15
+http://124.220.17.172:1100/aas.php?id=15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV16.png" group-title="中国大陆频道",CCTV16
+http://124.220.17.172:1100/aas.php?id=16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV17.png" group-title="中国大陆频道",CCTV17
+http://124.220.17.172:1100/aas.php?id=17
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://124.220.17.172:1100/ws/hunan.png" group-title="中国大陆频道", 湖南卫视
+http://124.220.17.172:1100/aas.php?id=20
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://124.220.17.172:1100/ws/zhejiang.png" group-title="中国大陆频道", 浙江卫视
+http://124.220.17.172:1100/aas.php?id=21
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://124.220.17.172:1100/ws/jiangsu.png" group-title="中国大陆频道", 江苏卫视
+http://124.220.17.172:1100/aas.php?id=22
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://124.220.17.172:1100/ws/dongfang.png" group-title="中国大陆频道", 东方卫视
+http://124.220.17.172:1100/aas.php?id=23
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://124.220.17.172:1100/ws/beijing.png" group-title="中国大陆频道", 北京卫视
+http://124.220.17.172:1100/aas.php?id=24
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://124.220.17.172:1100/ws/tianjin.png" group-title="中国大陆频道", 天津卫视
+http://124.220.17.172:1100/aas.php?id=25
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://124.220.17.172:1100/ws/guangdong.png" group-title="中国大陆频道", 广东卫视
+http://124.220.17.172:1100/aas.php?id=26
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://124.220.17.172:1100/ws/shenzhen.png" group-title="中国大陆频道", 深圳卫视
+http://124.220.17.172:1100/aas.php?id=27
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://124.220.17.172:1100/ws/dongnan.png" group-title="中国大陆频道", 东南卫视
+http://124.220.17.172:1100/aas.php?id=28
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://124.220.17.172:1100/ws/shandong.png" group-title="中国大陆频道", 山东卫视
+http://124.220.17.172:1100/aas.php?id=29
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://124.220.17.172:1100/ws/henan.png" group-title="中国大陆频道", 河南卫视
+http://39.134.67.108/PLTV/88888888/224/3221225988/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://124.220.17.172:1100/ws/hebei.png" group-title="中国大陆频道", 河北卫视
+http://124.220.17.172:1100/aas.php?id=31
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://124.220.17.172:1100/ws/anhui.png" group-title="中国大陆频道", 安徽卫视
+http://124.220.17.172:1100/aas.php?id=32
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://124.220.17.172:1100/ws/hubei.png" group-title="中国大陆频道", 湖北卫视
+http://124.220.17.172:1100/aas.php?id=33
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://124.220.17.172:1100/ws/jiangxi.png" group-title="中国大陆频道", 江西卫视
+http://124.220.17.172:1100/aas.php?id=34
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://124.220.17.172:1100/ws/guizhou.png" group-title="中国大陆频道", 贵州卫视
+http://124.220.17.172:1100/aas.php?id=35
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://124.220.17.172:1100/ws/chongqing.png" group-title="中国大陆频道", 重庆卫视
+http://124.220.17.172:1100/aas.php?id=36
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://124.220.17.172:1100/ws/lvyou.png" group-title="中国大陆频道", 旅游卫视
+http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://124.220.17.172:1100/ws/sichuan.png" group-title="中国大陆频道", 四川卫视
+http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225733/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://124.220.17.172:1100/ws/jilin.png" group-title="中国大陆频道", 吉林卫视
+http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225959/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://124.220.17.172:1100/ws/heilongjiang.png" group-title="中国大陆频道", 黑龙江卫视
+http://124.220.17.172:1100/aas.php?id=40
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://124.220.17.172:1100/ws/yunnan.png" group-title="中国大陆频道", 云南卫视
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://124.220.17.172:1100/ws/liaoning.png" group-title="中国大陆频道", 辽宁卫视
+http://124.220.17.172:1100/aas.php?id=41
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://124.220.17.172:1100/ws/neimeng.png" group-title="中国大陆频道", 内蒙古卫视
+http://124.220.17.172:1100/nmgpd.php?id=161
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://124.220.17.172:1100/ws/guangxi.png" group-title="中国大陆频道", 广西卫视
+http://124.220.17.172:1100/aas.php?id=50
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://124.220.17.172:1100/ws/gansu.png" group-title="中国大陆频道", 甘肃卫视
+http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225958/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://124.220.17.172:1100/ws/shanxi.png" group-title="中国大陆频道", 陕西卫视
+http://124.220.17.172:1100/aas.php?id=43
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://124.220.17.172:1100/ws/shanxi_.png" group-title="中国大陆频道", 山西卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://124.220.17.172:1100/ws/ningxia.png" group-title="中国大陆频道", 宁夏卫视
+http://124.220.17.172:1100/aas.php?id=44
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://124.220.17.172:1100/ws/qinghai.png" group-title="中国大陆频道", 青海卫视
+http://124.220.17.172:1100/aas.php?id=45
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://124.220.17.172:1100/ws/xinjiang.png" group-title="中国大陆频道", 新疆卫视
+http://124.220.17.172:1100/aas.php?id=46
+#EXTINF:-1 tvg-id="108a29d02e94309782fc86389c2bbc3f" tvg-name="港台电视31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/港台电视_TV_31_2020.svg/revision/latest/scale-to-width-down/260?cb=20200511232851" group-title="港澳台频道",港台电视 31
+http://xtv:1292@23.142.200.188:9981/stream/channelid/1344899600?ticket=51AC6EFBD38A183C751F2F231FBFA62E734DCF9B&profile=pass
+#EXTINF:-1 tvg-id="d3216b91a8d10680d7abc5faacb12731" tvg-name="港台电视32" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/港台电视_TV_32.svg/revision/latest/scale-to-width-down/260?cb=20200511233323" group-title="港澳台频道",港台电视 32
+http://xtv:1292@23.142.200.188:9981/stream/channelid/292233683?ticket=FBE1D652DC08B30D3D8A6846E017F8E4721A93EA&profile=pass
+#EXTINF:-1 tvg-id="fa73b99756913125fb47135b532baaf7" tvg-name="港台电视33" tvg-logo="https://i.ibb.co/5hMLch7/12.png" group-title="港澳台频道",港台电视 33
+http://xtv:1292@23.142.200.188:9981/stream/channelid/398029818?ticket=8096864D757312AF982FA73A308FE9698B3082DC&profile=pass
+#EXTINF:-1 tvg-id="123e42f90c0ba48981de3904cdf697c9" tvg-name="港台电视34" tvg-logo="https://i.ibb.co/0cMMh7T/13.png" group-title="港澳台频道",港台电视 34
+http://xtv:1292@23.142.200.188:9981/stream/channelid/2034384402?ticket=543B6B487CC69E682A90F4960377704C0ADE66EF&profile=pass
+#EXTINF:-1 tvg-id="b2d8f7aa8998ac3103ce74acd313a9ff" tvg-name="香港國際財經台" tvg-logo="https://i.ibb.co/HYD21Lz/16.png" group-title="港澳台频道",香港國際財經台
+http://xtv:1292@23.142.200.188:9981/stream/channelid/720885938?ticket=4FAC7E687CE35CD0AAB0CB0FE94066CC5A5EFB3D&profile=pass
+#EXTINF:-1 tvg-id="28abb6549eb913ae80744d67731cc802" tvg-name="香港開電視" tvg-logo="https://i.ibb.co/8mpgrhH/14.png" group-title="港澳台频道",HOY TV
+http://xtv:1292@23.142.200.188:9981/stream/channelid/1421257512?ticket=5BF533BB266C1A14B2603547D386A35563C3B46B&profile=pass
+#EXTINF:-1 tvg-id="b6093f56d0badd9532107ef180486a04" tvg-name="HOY资讯台" tvg-logo="https://i.ibb.co/WK1nydq/15.png" group-title="港澳台频道",HOY资讯台
+http://xtv:1292@23.142.200.188:9981/stream/channelid/1446971830?ticket=22C89D9620EB092185F9DA8D0A46BC24EB85997D&profile=pass
+#EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/wMzyky3/1.png" group-title="港澳台频道",翡翠台
+http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/jade_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/wMzyky3/1.png" group-title="港澳台频道",翡翠台 (广东有线)
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/tMk1QBD/2.png" group-title="港澳台频道",翡翠台 (Digital)
+http://xtv:1292@23.142.200.188:9981/stream/channelid/963328714?ticket=54059F0C9A4D74F378A808B68CAFD31908B54CAB&profile=pass
+#EXTINF:-1 tvg-id="045cc83fc1b56cfa434b4496e2f2a989" tvg-name="J2台" tvg-logo="https://i.ibb.co/ZHDq0vD/17.png" group-title="港澳台频道",J2台
+http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/j2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="045cc83fc1b56cfa434b4496e2f2a989" tvg-name="J2台" tvg-logo="https://i.ibb.co/yRn59Fd/18.png" group-title="港澳台频道",J2台 (Digital)
+http://xtv:1292@23.142.200.188:9981/stream/channelid/1070095364?ticket=7C7578D9E1E0D1BD0007E376C212E97C3DEE8D62&profile=pass
+#EXTINF:-1 tvg-id="9570b90c1c7ef8ba2b3de97633915cc4" tvg-name="無綫新聞台" tvg-logo="https://i.ibb.co/WBThhXV/10.png" group-title="港澳台频道",無綫新聞台
+http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/inews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="9570b90c1c7ef8ba2b3de97633915cc4" tvg-name="無綫新聞台" tvg-logo="https://i.ibb.co/3Ws5HnH/9.png" group-title="港澳台频道",無綫新聞台 (Digital)
+http://xtv:1292@23.142.200.188:9981/stream/channelid/213479573?ticket=1F695ECD85FADD33E2B4E300FD48EA2838E33635&profile=pass
+#EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/mCbdRbZ/4.png" group-title="港澳台频道",明珠台
+http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/pearl_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/mCbdRbZ/4.png" group-title="港澳台频道",明珠台 (广东有线)
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/rp3g7n1/5.png" group-title="港澳台频道",明珠台 (Digital)
+http://xtv:1292@23.142.200.188:9981/stream/channelid/1185790559?ticket=916B7F5CDC21B4BAE6E9C14757AECC9E285BF2EF&profile=pass
+#EXTINF:-1 tvg-id="9186a1cb3eceda50e270fee5f7b59a57" tvg-name="無綫財經·資訊台" tvg-logo="https://i.ibb.co/DGCkcxh/6.png" group-title="港澳台频道",無綫財經 體育 資訊台
+http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/j5_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="9186a1cb3eceda50e270fee5f7b59a57" tvg-name="無綫財經·資訊台" tvg-logo="https://i.ibb.co/mR7SZJC/7.png" group-title="港澳台频道",無綫財經 體育 資訊台 (Digital)
+http://xtv:1292@23.142.200.188:9981/stream/channelid/1268876945?ticket=58D9FA9F9052920345E2BD02FF1992B0E38FAF0E&profile=pass
+#EXTINF:-1 tvg-id="7ca0f21854108ee2f511d6cd58604362" tvg-name="ViuTV Six" tvg-logo="https://i.ibb.co/MchcP50/19.png" group-title="港澳台频道",ViuTVSix
+http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/viusix_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="7ca0f21854108ee2f511d6cd58604362" tvg-name="ViuTV Six" tvg-logo="https://i.ibb.co/L9FZnPD/20.png" group-title="港澳台频道",ViuTVSix (Digital)
+http://xtv:1292@23.142.200.188:9981/stream/channelid/418553980?ticket=995A4A48D23BF2CEA90C408D82397C5043D8AB67&profile=pass
+#EXTINF:-1 tvg-id="7e91c9c1ffc8ed5e7864b59a0add05ee" tvg-name="ViuTV" tvg-logo="https://i.ibb.co/3NMNgHS/21.png" group-title="港澳台频道",ViuTV
+http://315600.xyz/a/smt.php?playurl=http://198.16.64.10:8278/viu_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="7e91c9c1ffc8ed5e7864b59a0add05ee" tvg-name="ViuTV" tvg-logo="https://i.ibb.co/Y0tmVfx/22.png" group-title="港澳台频道",ViuTV (Digital)
+http://xtv:1292@23.142.200.188:9981/stream/channelid/1103729022?ticket=94031917509AE1CED76618DCB367AC1A68D5CA71&profile=pass
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-rez="1920x1080" group-title="港澳台频道",凤凰中文
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/phoenixtv_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-rez="1920x1080" group-title="港澳台频道",凤凰资讯
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/phoenixinfo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台频道",凤凰香港
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/hkphoenix_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="NowDirect.hk" tvg-logo="https://nettvpro.live/uploads/18/1-1PG11I415a1.jpg" group-title="港澳台频道",Now直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 tvg-id="NowNews.hk" tvg-logo="https://nettvpro.live/uploads/18/1-1PG11QQ2114.jpg" group-title="港澳台频道",Now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="NowBusinessNewsChannel.hk" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z91G24944Z2.jpg" group-title="港澳台频道",Now財經台
+http://livetv.dnsfor.me:80/channel.8.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-logo="https://nettvpro.live/uploads/allimg/20/1-20011QKF00-L.jpg" group-title="港澳台频道",有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-id="7122" tvg-logo="https://nettvpro.live/uploads/18/1-1Q01420544J23.jpg" group-title="港澳台频道",有線新聞台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2002151054390-L.jpg" group-title="港澳台频道",有線直播新聞台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 tvg-id="france24eng" group-title="港澳台频道" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/TDM_Ou_Mun.png/revision/latest?cb=20220124185106",澳視澳門
+http://61.244.22.4/ch1/ch1.live/index.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="港澳台频道" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Canal_Macau.png/revision/latest?cb=20220124185233",澳視葡文
+https://live4.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="港澳台频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg",澳門資訊
+https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="港澳台频道" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/TDM_Ou_Mun_Macau_logo.png/revision/latest/scale-to-width-down/300?cb=20220124185451",澳門MACAU
+https://live4.tdm.com.mo/ch3/ch3.live/chunklist_w976321456.m3u8
+#EXTINF:-1 tvg-id="476" tvg-logo="https://nettvpro.live/uploads/18/1-1P5121TS0225.jpg" group-title="港澳台频道",澳亞衛視
+http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 tvg-id="320" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="港澳台频道",TVBS亞洲台
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="6074" tvg-logo="https://cdn.telummedia.com/uploads/cache/news_image_4x3/uploads/media/logos/crop/2014/04/5dbba2cd6dd04.png" group-title="港澳台频道",TVBS
+http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/tvbs/playlist.m3u8
+#EXTINF:-1 tvg-id="6060" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png" group-title="港澳台频道",TVBS歡樂台
+http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="6060" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png" group-title="港澳台频道",TVBS新聞台
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/tvbs_n/playlist.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="港澳台频道",民視
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/ftvhd_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="6026" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="港澳台频道",台視
+http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="6028" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="港澳台频道",中視
+http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="6030" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="港澳台频道",華視
+http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/ctshd_twn/playlist.m3u
+#EXTINF:-1 tvg-id="6054" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/CTI_Official_Logo.png" group-title="港澳台频道",中天綜合台
+http://23.237.10.66:16372
+#EXTINF:-1 tvg-id="6060" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8U-xT37GTF2pYeLleIgY7dP4NJKcIkzz2oz6Gsig=s900-c-k-c0x00ffffff-no-rj" group-title="港澳台频道",中天新聞台
+http://315600.xyz/a/smt.php?playurl=http://50.7.220.74:8278/ctinews/playlist.m3u8
+#EXTINF:-1 tvg-id="6060" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台频道",東森新聞台
+http://315600.xyz/a/smt.php?playurl=http://198.16.100.90:8278/ettvnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png" group-title="港澳台频道",原住民族電視台
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="中文国际频道" tvg-logo="https://nettvpro.live/uploads/18/1-1P51220053V91.jpg",湖南国际
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:0 tvg-id="" group-title="中文国际频道" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2020/10/dragontv_logo_420x237_thumb.jpg",东方国际
+http://line.premiumpowers.net:80/Manuel/1234567/941637
+#EXTINF:0 tvg-id="" group-title="中文国际频道" tvg-logo="https://nettvpro.live/uploads/19/1-1Z4191H52V22.jpg",广东国际
+http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgj&auth=rinimabi
+#EXTINF:0 tvg-id="" group-title="中文国际频道" tvg-logo="https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b899e51938f206855a7d933c895a021?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:0 tvg-id="" group-title="中文国际频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳国际
+http://iptv.cooltv.top/tv/sztv.php?id=szgj
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="中文国际频道",東南亞翡翠台
+http://line.premiumpowers.net:80/Manuel/1234567/941619
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="中文国际频道",無線新聞台香港時區
+http://iptv.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="中文国际频道",無線財經體育信息站香港時區
+http://iptv.cooltv.top/tv/tvb.php?id=2
