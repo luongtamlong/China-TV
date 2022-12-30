@@ -1,102 +1,102 @@
 #EXTM3U url-tvg="http://xtv:1292@23.142.200.188:9981/xmltv/channels,http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172:1100/cctv/CCTV1.png" group-title="中国大陆频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172:1100/cctv/CCTV1.png" group-title="央视",CCTV1
 http://124.220.17.172:1100/aas.php?id=1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV2.png" group-title="中国大陆频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://124.220.17.172:1100/aas.php?id=2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV3.png" group-title="中国大陆频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://124.220.17.172:1100/aas.php?id=3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV4.png" group-title="中国大陆频道",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://124.220.17.172:1100/aas.php?id=4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV5.png" group-title="中国大陆频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://124.220.17.172:1100/aas.php?id=5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV55.png" group-title="中国大陆频道",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV55.png" group-title="央视",CCTV5+
 http://124.220.17.172:1100/aas.php?id=5p
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV6.png" group-title="中国大陆频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://124.220.17.172:1100/aas.php?id=6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV7.png" group-title="中国大陆频道",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://124.220.17.172:1100/aas.php?id=7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV8.png" group-title="中国大陆频道",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://124.220.17.172:1100/aas.php?id=8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV9.png" group-title="中国大陆频道",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://124.220.17.172:1100/aas.php?id=9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV10.png" group-title="中国大陆频道",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://124.220.17.172:1100/aas.php?id=10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV11.png" group-title="中国大陆频道",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://124.220.17.172:1100/aas.php?id=11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV12.png" group-title="中国大陆频道",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://124.220.17.172:1100/aas.php?id=12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV13.png" group-title="中国大陆频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV13.png" group-title="央视",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV14.png" group-title="中国大陆频道",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://124.220.17.172:1100/aas.php?id=14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV15.png" group-title="中国大陆频道",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://124.220.17.172:1100/aas.php?id=15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV16.png" group-title="中国大陆频道",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://124.220.17.172:1100/aas.php?id=16
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV17.png" group-title="中国大陆频道",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://124.220.17.172:1100/aas.php?id=17
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://124.220.17.172:1100/ws/hunan.png" group-title="中国大陆频道", 湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://124.220.17.172:1100/ws/hunan.png" group-title="卫视", 湖南卫视
 http://124.220.17.172:1100/aas.php?id=20
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://124.220.17.172:1100/ws/zhejiang.png" group-title="中国大陆频道", 浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://124.220.17.172:1100/ws/zhejiang.png" group-title="卫视", 浙江卫视
 http://124.220.17.172:1100/aas.php?id=21
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://124.220.17.172:1100/ws/jiangsu.png" group-title="中国大陆频道", 江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://124.220.17.172:1100/ws/jiangsu.png" group-title="卫视", 江苏卫视
 http://124.220.17.172:1100/aas.php?id=22
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://124.220.17.172:1100/ws/dongfang.png" group-title="中国大陆频道", 东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://124.220.17.172:1100/ws/dongfang.png" group-title="卫视", 东方卫视
 http://124.220.17.172:1100/aas.php?id=23
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://124.220.17.172:1100/ws/beijing.png" group-title="中国大陆频道", 北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://124.220.17.172:1100/ws/beijing.png" group-title="卫视", 北京卫视
 http://124.220.17.172:1100/aas.php?id=24
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://124.220.17.172:1100/ws/tianjin.png" group-title="中国大陆频道", 天津卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://124.220.17.172:1100/ws/tianjin.png" group-title="卫视", 天津卫视
 http://124.220.17.172:1100/aas.php?id=25
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://124.220.17.172:1100/ws/guangdong.png" group-title="中国大陆频道", 广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://124.220.17.172:1100/ws/guangdong.png" group-title="卫视", 广东卫视
 http://124.220.17.172:1100/aas.php?id=26
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://124.220.17.172:1100/ws/shenzhen.png" group-title="中国大陆频道", 深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://124.220.17.172:1100/ws/shenzhen.png" group-title="卫视", 深圳卫视
 http://124.220.17.172:1100/aas.php?id=27
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://124.220.17.172:1100/ws/dongnan.png" group-title="中国大陆频道", 东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://124.220.17.172:1100/ws/dongnan.png" group-title="卫视", 东南卫视
 http://124.220.17.172:1100/aas.php?id=28
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://124.220.17.172:1100/ws/shandong.png" group-title="中国大陆频道", 山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://124.220.17.172:1100/ws/shandong.png" group-title="卫视", 山东卫视
 http://124.220.17.172:1100/aas.php?id=29
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://124.220.17.172:1100/ws/henan.png" group-title="中国大陆频道", 河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://124.220.17.172:1100/ws/henan.png" group-title="卫视", 河南卫视
 http://39.134.67.108/PLTV/88888888/224/3221225988/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://124.220.17.172:1100/ws/hebei.png" group-title="中国大陆频道", 河北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://124.220.17.172:1100/ws/hebei.png" group-title="卫视", 河北卫视
 http://124.220.17.172:1100/aas.php?id=31
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://124.220.17.172:1100/ws/anhui.png" group-title="中国大陆频道", 安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://124.220.17.172:1100/ws/anhui.png" group-title="卫视", 安徽卫视
 http://124.220.17.172:1100/aas.php?id=32
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://124.220.17.172:1100/ws/hubei.png" group-title="中国大陆频道", 湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://124.220.17.172:1100/ws/hubei.png" group-title="卫视", 湖北卫视
 http://124.220.17.172:1100/aas.php?id=33
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://124.220.17.172:1100/ws/jiangxi.png" group-title="中国大陆频道", 江西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://124.220.17.172:1100/ws/jiangxi.png" group-title="卫视", 江西卫视
 http://124.220.17.172:1100/aas.php?id=34
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://124.220.17.172:1100/ws/guizhou.png" group-title="中国大陆频道", 贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://124.220.17.172:1100/ws/guizhou.png" group-title="卫视", 贵州卫视
 http://124.220.17.172:1100/aas.php?id=35
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://124.220.17.172:1100/ws/chongqing.png" group-title="中国大陆频道", 重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://124.220.17.172:1100/ws/chongqing.png" group-title="卫视", 重庆卫视
 http://124.220.17.172:1100/aas.php?id=36
-#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://124.220.17.172:1100/ws/lvyou.png" group-title="中国大陆频道", 旅游卫视
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://124.220.17.172:1100/ws/lvyou.png" group-title="卫视", 旅游卫视
 http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://124.220.17.172:1100/ws/sichuan.png" group-title="中国大陆频道", 四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://124.220.17.172:1100/ws/sichuan.png" group-title="卫视", 四川卫视
 http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225733/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://124.220.17.172:1100/ws/jilin.png" group-title="中国大陆频道", 吉林卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://124.220.17.172:1100/ws/jilin.png" group-title="卫视", 吉林卫视
 http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225959/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://124.220.17.172:1100/ws/heilongjiang.png" group-title="中国大陆频道", 黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://124.220.17.172:1100/ws/heilongjiang.png" group-title="卫视", 黑龙江卫视
 http://124.220.17.172:1100/aas.php?id=40
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://124.220.17.172:1100/ws/yunnan.png" group-title="中国大陆频道", 云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://124.220.17.172:1100/ws/yunnan.png" group-title="卫视", 云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://124.220.17.172:1100/ws/liaoning.png" group-title="中国大陆频道", 辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://124.220.17.172:1100/ws/liaoning.png" group-title="卫视", 辽宁卫视
 http://124.220.17.172:1100/aas.php?id=41
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://124.220.17.172:1100/ws/neimeng.png" group-title="中国大陆频道", 内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://124.220.17.172:1100/ws/neimeng.png" group-title="卫视", 内蒙古卫视
 http://124.220.17.172:1100/nmgpd.php?id=161
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://124.220.17.172:1100/ws/guangxi.png" group-title="中国大陆频道", 广西卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://124.220.17.172:1100/ws/guangxi.png" group-title="卫视", 广西卫视
 http://124.220.17.172:1100/aas.php?id=50
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://124.220.17.172:1100/ws/gansu.png" group-title="中国大陆频道", 甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://124.220.17.172:1100/ws/gansu.png" group-title="卫视", 甘肃卫视
 http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225958/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://124.220.17.172:1100/ws/shanxi.png" group-title="中国大陆频道", 陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://124.220.17.172:1100/ws/shanxi.png" group-title="卫视", 陕西卫视
 http://124.220.17.172:1100/aas.php?id=43
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://124.220.17.172:1100/ws/shanxi_.png" group-title="中国大陆频道", 山西卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://124.220.17.172:1100/ws/shanxi_.png" group-title="卫视", 山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://124.220.17.172:1100/ws/ningxia.png" group-title="中国大陆频道", 宁夏卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://124.220.17.172:1100/ws/ningxia.png" group-title="卫视", 宁夏卫视
 http://124.220.17.172:1100/aas.php?id=44
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://124.220.17.172:1100/ws/qinghai.png" group-title="中国大陆频道", 青海卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://124.220.17.172:1100/ws/qinghai.png" group-title="卫视", 青海卫视
 http://124.220.17.172:1100/aas.php?id=45
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://124.220.17.172:1100/ws/xinjiang.png" group-title="中国大陆频道", 新疆卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://124.220.17.172:1100/ws/xinjiang.png" group-title="卫视", 新疆卫视
 http://124.220.17.172:1100/aas.php?id=46
 #EXTINF:-1 tvg-id="108a29d02e94309782fc86389c2bbc3f" tvg-name="港台電視31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/港台電視_TV_31_2020.svg/revision/latest/scale-to-width-down/260?cb=20200511232851" group-title="港澳台频道",港台電視 31
 http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/rhk31_twn/playlist.m3u8
