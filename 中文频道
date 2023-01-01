@@ -99,49 +99,49 @@ http://124.220.17.172:1100/aas.php?id=45
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://124.220.17.172:1100/ws/xinjiang.png" group-title="卫视", 新疆卫视
 http://124.220.17.172:1100/aas.php?id=46
 #EXTINF:-1 tvg-id="108a29d02e94309782fc86389c2bbc3f" tvg-name="港台電視31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/港台電視_TV_31_2020.svg/revision/latest/scale-to-width-down/260?cb=20200511232851" group-title="港澳台频道",港台電視 31
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/rhk31_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 tvg-id="d3216b91a8d10680d7abc5faacb12731" tvg-name="港台電視32" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/港台電視_TV_32.svg/revision/latest/scale-to-width-down/260?cb=20200511233323" group-title="港澳台频道",港台電視 32
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/rhk32_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/32/index.m3u8
 #EXTINF:-1 tvg-id="fa73b99756913125fb47135b532baaf7" tvg-name="港台電視33" tvg-logo="https://i.ibb.co/JcMJqvw/12.png" group-title="港澳台频道",中央電視台綜合頻道（CCTV-1綜合)
-http://59.149.114.27:9981/stream/channelid/905614867?profile=matroska
+http://cdn.hklive.tv/xxxx/33/index.m3u8
 #EXTINF:-1 tvg-id="123e42f90c0ba48981de3904cdf697c9" tvg-name="港台電視34" tvg-logo="https://i.ibb.co/JKPBmtG/13.png" group-title="港澳台频道",中國環球電視網紀錄頻道 (CGTN紀錄頻道)
-http://59.149.114.27:9981/stream/channelid/1638410504?profile=matroska
+http://cdn.hklive.tv/xxxx/34/index.m3u8
 #EXTINF:-1 tvg-id="b2d8f7aa8998ac3103ce74acd313a9ff" tvg-name="香港國際財經台" tvg-logo="https://i.ibb.co/YB57HR2/16.png" group-title="港澳台频道",香港國際財經台
-http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+http://cdn.hklive.tv/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="28abb6549eb913ae80744d67731cc802" tvg-name="香港開電視" tvg-logo="https://i.ibb.co/DfFpFf3/14.png" group-title="港澳台频道",HOY TV
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+http://cdn.hklive.tv/xxxx/77/index.m3u8
 #EXTINF:-1 tvg-id="b6093f56d0badd9532107ef180486a04" tvg-name="香港開電視" tvg-logo="https://i.ibb.co/P12PvZR/15.png" group-title="港澳台频道",HOY資訊台
-http://59.149.114.27:9981/stream/channelid/1446871186?profile=matroska
+http://cdn.hklive.tv/xxxx/78/index.m3u8
 #EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/wMzyky3/1.png" group-title="港澳台频道",翡翠台
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/jade_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/wMzyky3/1.png" group-title="港澳台频道",广东有线翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="ca3a6bb9efbc83674f2ce30eecc60a12" tvg-name="翡翠台" tvg-logo="https://i.ibb.co/j64JwB8/2.png" group-title="港澳台频道",数字翡翠台
 http://59.149.114.27:9981/stream/channelid/1255701536?profile=matroska
 #EXTINF:-1 tvg-id="045cc83fc1b56cfa434b4496e2f2a989" tvg-name="J2台" tvg-logo="https://i.ibb.co/wJm5f8m/17.png" group-title="港澳台频道",J2台
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/j2_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="045cc83fc1b56cfa434b4496e2f2a989" tvg-name="J2台" tvg-logo="https://i.ibb.co/zJjXfy9/18.png" group-title="港澳台频道",数字J2台
 http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska
 #EXTINF:-1 tvg-id="9570b90c1c7ef8ba2b3de97633915cc4" tvg-name="無綫新聞台" tvg-logo="https://i.ibb.co/WBThhXV/10.png" group-title="港澳台频道",無綫新聞台
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/inews_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="9570b90c1c7ef8ba2b3de97633915cc4" tvg-name="無綫新聞台" tvg-logo="https://i.ibb.co/zfG8zgp/9.png" group-title="港澳台频道",数字新聞台
 http://59.149.114.27:9981/stream/channelid/441235415?profile=matroska
 #EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/mCbdRbZ/4.png" group-title="港澳台频道",明珠台
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/pearl_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/mCbdRbZ/4.png" group-title="港澳台频道",广东有线明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-id="5fbaad46432563b8e79ce800cbf630c7" tvg-name="明珠台" tvg-logo="https://i.ibb.co/MDx1FBX/5.png" group-title="港澳台频道",数字明珠台
 http://59.149.114.27:9981/stream/channelid/331671822?profile=matroska
 #EXTINF:-1 tvg-id="9186a1cb3eceda50e270fee5f7b59a57" tvg-name="無綫財經·資訊台" tvg-logo="https://i.ibb.co/DGCkcxh/6.png" group-title="港澳台频道",無綫財經-體育-資訊台
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/j5_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="9186a1cb3eceda50e270fee5f7b59a57" tvg-name="無綫財經·資訊台" tvg-logo="https://i.ibb.co/BZLTNsC/7.png" group-title="港澳台频道",無綫数字財經-體育-資訊台
 http://59.149.114.27:9981/stream/channelid/795359597?profile=matroska
 #EXTINF:-1 tvg-id="7ca0f21854108ee2f511d6cd58604362" tvg-name="ViuTV Six" tvg-logo="https://i.ibb.co/D9b9wg2/19.png" group-title="港澳台频道",ViuTVSix
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/viusix_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="7ca0f21854108ee2f511d6cd58604362" tvg-name="ViuTV Six" tvg-logo="https://i.ibb.co/bmx1K84/20.png" group-title="港澳台频道",ViuTVSix (数字)
 http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska
 #EXTINF:-1 tvg-id="7e91c9c1ffc8ed5e7864b59a0add05ee" tvg-name="ViuTV" tvg-logo="https://i.ibb.co/d2L28yk/21.png" group-title="港澳台频道",ViuTV
-http://315600.xyz/a/ssmt.php?playurl=http://50.7.168.234:8278/viu_twn/playlist.m3u8
+http://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="7e91c9c1ffc8ed5e7864b59a0add05ee" tvg-name="ViuTV" tvg-logo="https://i.ibb.co/tbr9BSm/22.png" group-title="港澳台频道",ViuTV (数字)
 http://59.149.114.27:9981/stream/channelid/1452492542?profile=matroska
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-rez="1920x1080" group-title="港澳台频道",凤凰中文
